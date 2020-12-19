@@ -15498,7 +15498,6 @@ div#notebook {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="4.3.1-Score-by-Region">4.3.1 Score by Region<a class="anchor-link" href="#4.3.1-Score-by-Region">&#182;</a></h2><p>Using the 2015 and 2020 data, we can compare how happiness scores have trended by region. There are some descrepancies in region labeling, but the broad strokes remain constant between datasets.</p>
-<p>Central/Eastern Europe increased, East asia got tighter, Latin America got tighter, Middle East and North Africa decreased and got tighter, North America got tighter and slightly decreased, Southeast asia got tighter, South Asia increased and got looser, Sub-Saharan Africa increased in upper margins, Western Europe increased and got tighter.</p>
 
 </div>
 </div>
@@ -15557,6 +15556,14 @@ div#notebook {
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Based on this, we can see that Central/Eastern Europe, South Asia, Sub-Saharan Africa, and Western Europe all increased in happiness over time. The Middle East and North Africa as well as North America both decreased. East Asia, Latin America, and Southeast Asia all decreased in spread.</p>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
@@ -15727,8 +15734,8 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Average Score: 0.7513176408297235
-Standard Deviation: 0.05558343950856347
+<pre>Average Score: 0.7503389846701418
+Standard Deviation: 0.04035597602415775
 </pre>
 </div>
 </div>
@@ -15779,8 +15786,8 @@ Standard Deviation: 0.05558343950856347
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Average Score: 0.8070947448352095
-Standard Deviation: 0.04041462029601089
+<pre>Average Score: 0.8046423895469561
+Standard Deviation: 0.024163262977658802
 </pre>
 </div>
 </div>
@@ -16018,14 +16025,14 @@ Standard Deviation: 0.04041462029601089
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Doing a random forest regression like before, the score remains the same at around 0.8, although the standard deviation decreases to around 0.12.</p>
+<p>Doing a random forest regression like before, the score remains the same at around 0.8, although the standard deviation increases to around 0.12. Interestingly, this suggests that the model fits better on the global data rather than specific regions.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[27]:</div>
+<div class="prompt input_prompt">In&nbsp;[28]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">forest</span> <span class="o">=</span> <span class="n">RandomForestRegressor</span><span class="p">()</span>
@@ -16056,8 +16063,8 @@ Standard Deviation: 0.04041462029601089
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Average Score: 0.7255973391193067
-Standard Deviation: 0.20699754646883423
+<pre>Average Score: 0.7911094710192967
+Standard Deviation: 0.10996275716098204
 </pre>
 </div>
 </div>
@@ -16076,7 +16083,9 @@ Standard Deviation: 0.20699754646883423
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Score has a weak positive correlation with time, suggesting that global happiness does tend to increase over time. It most strongly relates to wealth, health, social support, and freedom. In general, happiness is highest in the Americas, western Europe, and Australia, which are commonly perceived as western countries. Happiness is lowest in Africa and Asia. Can use a model to loosely fit and predict the score, although it performs better on regional sets of data rather than the entire set at once.</p>
+<p>We analysed the UN's World Happiness Report data from 2015 through 2020. We adjusted and reformatted columns to be consistent across years and visualized the relationships between happiness score and various factors. We found that score has a weakly positive correlation with time, suggesting that global happiness does tend to increase over time. It most strongly relates to wealth, health, social support, and freedom, which was confirmed by a correlation matrix. In general, happiness is highest in the Americas, Western Europe, and Australia, which are commonly perceived as western countries. Happiness is lowest in Africa and Asia. Finally, we used a linear regression and a random forest to fit the data with respect to GDP, life expectancy, social support, freedom, and time. The random forest performed the best, and was more accurate on global data than regional data.</p>
+<p>In general, the relatively short timeframe of the report makes it difficult to determine any trends. Furthermore, it is likely that there is a great deal of variance in how values are reported across countries, due to differences in culture or perception. This degree of inconsistency makes it difficult to compare values between countries and in general causes reported scores to not deviate much from year to year. Ultimately, since these values are largely qualitative and subjective, it is difficult to use them to predict future trends.</p>
+<p>Of greater interest are the features that had the greatest correlation with a high level of happiness. While wealth and health were both expected to be influential, it surprised me that social support was so high and that perceived corruption was so low. This makes sense, however, since humans are innately social beings, and the average person is routinely influenced more by their immediate community than corruption in government or bureaucracy.</p>
 
 </div>
 </div>
@@ -16084,9 +16093,9 @@ Standard Deviation: 0.20699754646883423
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="7.-Further-Reading">7. Further Reading<a class="anchor-link" href="#7.-Further-Reading">&#182;</a></h2><p>kaggle data
-World Happiness Report site
-<a href="https://rpubs.com/LeonaAnn/645318">https://rpubs.com/LeonaAnn/645318</a></p>
+<h2 id="7.-Resources">7. Resources<a class="anchor-link" href="#7.-Resources">&#182;</a></h2><p>Kaggle data: <a href="https://www.kaggle.com/londeen/world-happiness-report-2020">https://www.kaggle.com/londeen/world-happiness-report-2020</a>
+World Happiness Report site: <a href="https://worldhappiness.report/">https://worldhappiness.report/</a>
+Another Study on World Happiness Data: <a href="https://rpubs.com/LeonaAnn/645318">https://rpubs.com/LeonaAnn/645318</a></p>
 
 </div>
 </div>
