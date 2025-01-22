@@ -6,7 +6,7 @@
 			"type": "Legendary Creature — Warrior ",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/89_Wang Lishen, Thrice-Risen.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/89_Wang Lishen, Thrice-Risen.png"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 			"type": "Creature — Warrior ",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/82_Phoenix Guard Evangelist.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/82_Phoenix Guard Evangelist.png"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/66_Corpse Dance Technique.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/66_Corpse Dance Technique.png"
 			}
 		},
 		{
@@ -36,7 +36,7 @@
 			"type": "Legendary Creature — Monkey ",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/114_Sun Baitou, Stone-Crowned.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/114_Sun Baitou, Stone-Crowned.png"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 			"type": "Creature — Monkey ",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/101_Fang Mountain Howler.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/101_Fang Mountain Howler.png"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 			"type": "Legendary Creature — Demon Spirit ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/8_Demon of Heavenly Wrath.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/8_Demon of Heavenly Wrath.png"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/151_Blade of the Bloodstealer.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/151_Blade of the Bloodstealer.png"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/154_The Great Bastion.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/154_The Great Bastion.png"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/94_Burning Spirit Technique.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/94_Burning Spirit Technique.png"
 			}
 		},
 		{
@@ -96,7 +96,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/23_Suntouched Reaper.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/23_Suntouched Reaper.png"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 			"type": "Legendary Creature — Bear Hydra ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/136_Terrormaw, Hundred-Fanged.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/136_Terrormaw, Hundred-Fanged.png"
 			}
 		},
 		{
@@ -116,7 +116,7 @@
 			"type": "Land",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/174_Stormsquall Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/174_Stormsquall Battlefield.png"
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 			"type": "Creature — Warrior ",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/83_Phoenix Guard Shieldbearer.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/83_Phoenix Guard Shieldbearer.png"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 			"type": "Creature — Boar ",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/126_Flameclaw Boar.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/126_Flameclaw Boar.png"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			"type": "Creature — Imp ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/5_Clothblade Yaoguai.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/5_Clothblade Yaoguai.png"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/59_Wandering Cultivator.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/59_Wandering Cultivator.png"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 			"type": "Land",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/173_Soulshroud Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/173_Soulshroud Battlefield.png"
 			}
 		},
 		{
@@ -176,7 +176,7 @@
 			"type": "Land",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/162_Bonegulch Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/162_Bonegulch Battlefield.png"
 			}
 		},
 		{
@@ -186,7 +186,7 @@
 			"type": "Land",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/168_Heavenfell Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/168_Heavenfell Battlefield.png"
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 			"type": "Land",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/170_Mountainscar Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/170_Mountainscar Battlefield.png"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"type": "Land",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/163_Cloudlost Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/163_Cloudlost Battlefield.png"
 			}
 		},
 		{
@@ -216,7 +216,7 @@
 			"type": "Land",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/165_Dreammire Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/165_Dreammire Battlefield.png"
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 			"type": "Land",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/166_Floodstorm Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/166_Floodstorm Battlefield.png"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 			"type": "Land",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/164_Corpserisen Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/164_Corpserisen Battlefield.png"
 			}
 		},
 		{
@@ -246,7 +246,7 @@
 			"type": "Land",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/175_Valleyflame Battlefield.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/175_Valleyflame Battlefield.png"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 			"type": "Artifact Creature — Spirit Construct ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/160_Training Spirit.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/160_Training Spirit.png"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 			"type": "Creature — Monkey ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/95_Child of Fang Mountain.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/95_Child of Fang Mountain.png"
 			}
 		},
 		{
@@ -276,13 +276,13 @@
 			"type": "Battle — Siege ",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/90_Battle for Fang Mountain_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/90_Battle for Fang Mountain_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/90_Battle for Fang Mountain_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/90_Battle for Fang Mountain_back.png"
 				}
 			}
 		},
@@ -293,13 +293,13 @@
 			"type": "Battle — Siege ",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/117_Battle for Thousand-Blade Forest_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/117_Battle for Thousand-Blade Forest_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/117_Battle for Thousand-Blade Forest_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/117_Battle for Thousand-Blade Forest_back.png"
 				}
 			}
 		},
@@ -310,7 +310,7 @@
 			"type": "Artifact",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/153_Flying Sword.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/153_Flying Sword.png"
 			}
 		},
 		{
@@ -320,7 +320,7 @@
 			"type": "Creature — Imp  Spirit ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/27_Yaoguai Driver.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/27_Yaoguai Driver.png"
 			}
 		},
 		{
@@ -330,7 +330,7 @@
 			"type": "Artifact — Food ",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/155_Jadeflower Pill.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/155_Jadeflower Pill.png"
 			}
 		},
 		{
@@ -340,13 +340,13 @@
 			"type": "Battle — Siege ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/3_Battle for Alabaster Gate_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/3_Battle for Alabaster Gate_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/3_Battle for Alabaster Gate_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/3_Battle for Alabaster Gate_back.png"
 				}
 			}
 		},
@@ -357,7 +357,7 @@
 			"type": "Legendary Creature — Demon ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/20_Shitai, Usurper in Heaven.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/20_Shitai, Usurper in Heaven.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/10_Demon of Tithes.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/10_Demon of Tithes.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/26_Yaoguai Bladedancer.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/26_Yaoguai Bladedancer.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Instant",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/22_Sunder the Foulblooded.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/22_Sunder the Foulblooded.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Instant",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/14_Furnace Body Technique.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/14_Furnace Body Technique.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Legendary Creature — Mystic ",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/43_Lin Taifeng, Storm Driver.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/43_Lin Taifeng, Storm Driver.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/135_Surging Fist Technique.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/135_Surging Fist Technique.png"
 			}
 		},
 		{
@@ -427,13 +427,13 @@
 			"type": "Battle — Siege ",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/29_Battle for the Thunder Peaks_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/29_Battle for the Thunder Peaks_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/29_Battle for the Thunder Peaks_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/29_Battle for the Thunder Peaks_back.png"
 				}
 			}
 		},
@@ -444,7 +444,7 @@
 			"type": "Creature — Warrior Cleric ",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/72_Emperor's Evangel.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/72_Emperor's Evangel.png"
 			}
 		},
 		{
@@ -454,7 +454,7 @@
 			"type": "Creature — Goblin Warrior ",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/144_Hozen Linebreaker.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/144_Hozen Linebreaker.png"
 			}
 		},
 		{
@@ -464,7 +464,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/138_Alabaster Grovetender.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/138_Alabaster Grovetender.png"
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/143_Hidden Viper Patriarch.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/143_Hidden Viper Patriarch.png"
 			}
 		},
 		{
@@ -484,7 +484,7 @@
 			"type": "Creature — Beast ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/140_Awakened Earthsplitter.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/140_Awakened Earthsplitter.png"
 			}
 		},
 		{
@@ -494,13 +494,13 @@
 			"type": "Battle — Siege ",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/61_Battle for the Great Bastion_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/61_Battle for the Great Bastion_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/61_Battle for the Great Bastion_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/61_Battle for the Great Bastion_back.png"
 				}
 			}
 		},
@@ -511,7 +511,7 @@
 			"type": "Instant",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/127_Jadeblossom Charm.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/127_Jadeblossom Charm.png"
 			}
 		},
 		{
@@ -521,7 +521,7 @@
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/69_Deathblossom Charm.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/69_Deathblossom Charm.png"
 			}
 		},
 		{
@@ -531,7 +531,7 @@
 			"type": "Instant",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/21_Sunblossom Charm.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/21_Sunblossom Charm.png"
 			}
 		},
 		{
@@ -541,7 +541,7 @@
 			"type": "Instant",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/31_Breathblossom Charm.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/31_Breathblossom Charm.png"
 			}
 		},
 		{
@@ -551,7 +551,7 @@
 			"type": "Instant",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/99_Emberblossom Charm.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/99_Emberblossom Charm.png"
 			}
 		},
 		{
@@ -561,7 +561,7 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/47_Misty Step Technique.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/47_Misty Step Technique.png"
 			}
 		},
 		{
@@ -571,7 +571,7 @@
 			"type": "Creature — Boar ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/137_Thunderwreath Boar.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/137_Thunderwreath Boar.png"
 			}
 		},
 		{
@@ -581,7 +581,7 @@
 			"type": "Instant",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/109_Scorching Phoenixfire.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/109_Scorching Phoenixfire.png"
 			}
 		},
 		{
@@ -591,7 +591,7 @@
 			"type": "Sorcery",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/6_Consign to the Heavens.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/6_Consign to the Heavens.png"
 			}
 		},
 		{
@@ -601,7 +601,7 @@
 			"type": "Legendary Creature — Phoenix ",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/145_Yihuo, the Fireblood.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/145_Yihuo, the Fireblood.png"
 			}
 		},
 		{
@@ -611,7 +611,7 @@
 			"type": "Creature — Beast ",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/118_Boulderhide Wrecker.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/118_Boulderhide Wrecker.png"
 			}
 		},
 		{
@@ -621,7 +621,7 @@
 			"type": "Creature — Shaman ",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/130_Savagery Speaker.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/130_Savagery Speaker.png"
 			}
 		},
 		{
@@ -631,7 +631,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/115_Yihuo Escapes the Heavens.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/115_Yihuo Escapes the Heavens.png"
 			}
 		},
 		{
@@ -641,7 +641,7 @@
 			"type": "Creature — Ogre ",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/107_Mogui Motivator.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/107_Mogui Motivator.png"
 			}
 		},
 		{
@@ -651,7 +651,7 @@
 			"type": "Creature — Ogre Shaman ",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/146_Bone Clan Skullweaver.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/146_Bone Clan Skullweaver.png"
 			}
 		},
 		{
@@ -661,7 +661,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/150_Wildsoul Channeler.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/150_Wildsoul Channeler.png"
 			}
 		},
 		{
@@ -671,7 +671,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/148_Scholar of Secret Paths.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/148_Scholar of Secret Paths.png"
 			}
 		},
 		{
@@ -681,7 +681,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/147_Demon of Rebirth.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/147_Demon of Rebirth.png"
 			}
 		},
 		{
@@ -691,7 +691,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/122_Earthhide Hermit.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/122_Earthhide Hermit.png"
 			}
 		},
 		{
@@ -701,7 +701,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/70_Demonbone Channeler.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/70_Demonbone Channeler.png"
 			}
 		},
 		{
@@ -711,7 +711,7 @@
 			"type": "Enchantment",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/63_Bloodlily Formation.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/63_Bloodlily Formation.png"
 			}
 		},
 		{
@@ -721,7 +721,7 @@
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/87_Strike of the Tigerviper.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/87_Strike of the Tigerviper.png"
 			}
 		},
 		{
@@ -731,7 +731,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/36_Explore the Archive.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/36_Explore the Archive.png"
 			}
 		},
 		{
@@ -741,7 +741,7 @@
 			"type": "Instant",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/52_Purging the Meridians.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/52_Purging the Meridians.png"
 			}
 		},
 		{
@@ -751,7 +751,7 @@
 			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/58_Transcend Tribulation.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/58_Transcend Tribulation.png"
 			}
 		},
 		{
@@ -761,7 +761,7 @@
 			"type": "Instant",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/16_Internal Deviation.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/16_Internal Deviation.png"
 			}
 		},
 		{
@@ -771,13 +771,13 @@
 			"type": "Enchantment Battle — Curse Siege ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/12_Failure of Morale_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/12_Failure of Morale_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/12_Failure of Morale_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/12_Failure of Morale_back.png"
 				}
 			}
 		},
@@ -788,13 +788,13 @@
 			"type": "Enchantment Battle — Curse Siege ",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/100_Failure of Discipline_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/100_Failure of Discipline_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/100_Failure of Discipline_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/100_Failure of Discipline_back.png"
 				}
 			}
 		},
@@ -805,13 +805,13 @@
 			"type": "Enchantment Battle — Curse Siege ",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/37_Failure of Strategy_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/37_Failure of Strategy_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/37_Failure of Strategy_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/37_Failure of Strategy_back.png"
 				}
 			}
 		},
@@ -822,13 +822,13 @@
 			"type": "Enchantment Battle — Curse Siege ",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/124_Failure of Logistics_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/124_Failure of Logistics_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/124_Failure of Logistics_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/124_Failure of Logistics_back.png"
 				}
 			}
 		},
@@ -839,13 +839,13 @@
 			"type": "Enchantment Battle — Curse Siege ",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/73_Failure of Vitality_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/73_Failure of Vitality_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/73_Failure of Vitality_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/73_Failure of Vitality_back.png"
 				}
 			}
 		},
@@ -856,7 +856,7 @@
 			"type": "Enchantment",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/11_Divine Law Formation.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/11_Divine Law Formation.png"
 			}
 		},
 		{
@@ -866,7 +866,7 @@
 			"type": "Enchantment",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/96_Dancing Lights Formation.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/96_Dancing Lights Formation.png"
 			}
 		},
 		{
@@ -876,7 +876,7 @@
 			"type": "Enchantment",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/128_Molded Earth Formation.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/128_Molded Earth Formation.png"
 			}
 		},
 		{
@@ -886,7 +886,7 @@
 			"type": "Instant",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/98_Defy the Heavens.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/98_Defy the Heavens.png"
 			}
 		},
 		{
@@ -896,7 +896,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/120_Chart the Hidden Realm.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/120_Chart the Hidden Realm.png"
 			}
 		},
 		{
@@ -906,7 +906,7 @@
 			"type": "Sorcery",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/103_Fireblood Visions.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/103_Fireblood Visions.png"
 			}
 		},
 		{
@@ -916,7 +916,7 @@
 			"type": "Artifact",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/156_Pill Cauldron.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/156_Pill Cauldron.png"
 			}
 		},
 		{
@@ -926,7 +926,7 @@
 			"type": "Sorcery",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/105_Furnace Explosion.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/105_Furnace Explosion.png"
 			}
 		},
 		{
@@ -936,7 +936,7 @@
 			"type": "Land — Island Swamp ",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/169_Mindshatter Ascent.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/169_Mindshatter Ascent.png"
 			}
 		},
 		{
@@ -946,7 +946,7 @@
 			"type": "Land — Swamp Mountain ",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/171_Skullcarved Ascent.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/171_Skullcarved Ascent.png"
 			}
 		},
 		{
@@ -956,7 +956,7 @@
 			"type": "Land — Mountain Forest ",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/167_Heartscorch Ascent.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/167_Heartscorch Ascent.png"
 			}
 		},
 		{
@@ -966,7 +966,7 @@
 			"type": "Land — Forest Plains  ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/161_Astralweave Ascent.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/161_Astralweave Ascent.png"
 			}
 		},
 		{
@@ -976,7 +976,7 @@
 			"type": "Land — Plains Island ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/172_Soulbound Ascent.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/172_Soulbound Ascent.png"
 			}
 		},
 		{
@@ -986,7 +986,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/24_True Sun Skyblade.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/24_True Sun Skyblade.png"
 			}
 		},
 		{
@@ -996,7 +996,7 @@
 			"type": "Creature — Imp ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/18_Qi-Siphon Yaoguai.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/18_Qi-Siphon Yaoguai.png"
 			}
 		},
 		{
@@ -1006,7 +1006,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/25_Winged Herald.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/25_Winged Herald.png"
 			}
 		},
 		{
@@ -1016,7 +1016,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/1_Aspirant of the First Blaze.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/1_Aspirant of the First Blaze.png"
 			}
 		},
 		{
@@ -1026,7 +1026,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/2_Banewing Judge.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/2_Banewing Judge.png"
 			}
 		},
 		{
@@ -1036,7 +1036,7 @@
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/42_Killing Intent.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/42_Killing Intent.png"
 			}
 		},
 		{
@@ -1046,7 +1046,7 @@
 			"type": "Creature — Imp ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/13_Flickersword Fodder.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/13_Flickersword Fodder.png"
 			}
 		},
 		{
@@ -1056,7 +1056,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/9_Demon of Sanctions.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/9_Demon of Sanctions.png"
 			}
 		},
 		{
@@ -1066,7 +1066,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/17_Jailor of the Heavens.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/17_Jailor of the Heavens.png"
 			}
 		},
 		{
@@ -1076,7 +1076,7 @@
 			"type": "Creature — Warlock ",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/74_Flameblood Apothecary.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/74_Flameblood Apothecary.png"
 			}
 		},
 		{
@@ -1086,7 +1086,7 @@
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/62_Blade of Bloodlines.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/62_Blade of Bloodlines.png"
 			}
 		},
 		{
@@ -1096,7 +1096,7 @@
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/91_Bo Staff of the Shapeshifter.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/91_Bo Staff of the Shapeshifter.png"
 			}
 		},
 		{
@@ -1106,7 +1106,7 @@
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/39_Guzheng of Illusions.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/39_Guzheng of Illusions.png"
 			}
 		},
 		{
@@ -1116,7 +1116,7 @@
 			"type": "Creature — Zombie Horror ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/81_Ninth Legion Soul Puppet.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/81_Ninth Legion Soul Puppet.png"
 			}
 		},
 		{
@@ -1126,7 +1126,7 @@
 			"type": "Creature — Beast ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/132_Shattered Valley Devastator.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/132_Shattered Valley Devastator.png"
 			}
 		},
 		{
@@ -1136,7 +1136,7 @@
 			"type": "Creature — Ogre ",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/112_Soulfire Immolator.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/112_Soulfire Immolator.png"
 			}
 		},
 		{
@@ -1146,7 +1146,7 @@
 			"type": "Creature — Sphinx ",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/56_Sovereign of the Realm.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/56_Sovereign of the Realm.png"
 			}
 		},
 		{
@@ -1156,7 +1156,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/15_Heavenly Host Sanctifier.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/15_Heavenly Host Sanctifier.png"
 			}
 		},
 		{
@@ -1166,7 +1166,7 @@
 			"type": "Artifact — Food ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/159_Sunderbreath Pill.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/159_Sunderbreath Pill.png"
 			}
 		},
 		{
@@ -1176,7 +1176,7 @@
 			"type": "Artifact — Food ",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/157_Snowblossom Orchid Pill.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/157_Snowblossom Orchid Pill.png"
 			}
 		},
 		{
@@ -1186,7 +1186,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/152_Caged Devourer.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/152_Caged Devourer.png"
 			}
 		},
 		{
@@ -1196,7 +1196,7 @@
 			"type": "Artifact Creature — Golem ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/158_Spiritstone Harvester.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/158_Spiritstone Harvester.png"
 			}
 		},
 		{
@@ -1206,7 +1206,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/33_Chase the Wind.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/33_Chase the Wind.png"
 			}
 		},
 		{
@@ -1216,7 +1216,7 @@
 			"type": "Creature — Ogre Spirit ",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/108_Mogui of the Slaughterfields.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/108_Mogui of the Slaughterfields.png"
 			}
 		},
 		{
@@ -1226,7 +1226,7 @@
 			"type": "Creature — Armadillo Spirit ",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/134_Stoneclad Pup.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/134_Stoneclad Pup.png"
 			}
 		},
 		{
@@ -1236,7 +1236,7 @@
 			"type": "Creature — Goblin ",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/113_Stonefist Driver.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/113_Stonefist Driver.png"
 			}
 		},
 		{
@@ -1246,7 +1246,7 @@
 			"type": "Creature — Warrior Spirit ",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/79_Lingering Legionnaire.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/79_Lingering Legionnaire.png"
 			}
 		},
 		{
@@ -1256,7 +1256,7 @@
 			"type": "Creature — Turtle Mystic ",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/38_Greatshell Sage.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/38_Greatshell Sage.png"
 			}
 		},
 		{
@@ -1266,7 +1266,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/149_True Sun Recruiter.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/149_True Sun Recruiter.png"
 			}
 		},
 		{
@@ -1276,7 +1276,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/142_Demon of Lost Knowledge.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/142_Demon of Lost Knowledge.png"
 			}
 		},
 		{
@@ -1286,7 +1286,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/40_Inner Sect Adherent.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/40_Inner Sect Adherent.png"
 			}
 		},
 		{
@@ -1296,7 +1296,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/53_Sealed Savant.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/53_Sealed Savant.png"
 			}
 		},
 		{
@@ -1306,7 +1306,7 @@
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/51_Patriarch's Intervention.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/51_Patriarch's Intervention.png"
 			}
 		},
 		{
@@ -1316,7 +1316,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/111_Seeker of the Raucous Path.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/111_Seeker of the Raucous Path.png"
 			}
 		},
 		{
@@ -1326,7 +1326,7 @@
 			"type": "Creature — Ogre Archer ",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/92_Bone Clan Sharpshooter.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/92_Bone Clan Sharpshooter.png"
 			}
 		},
 		{
@@ -1336,7 +1336,7 @@
 			"type": "Creature — Goblin Cat Beast ",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/104_Firecracker Cavalry.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/104_Firecracker Cavalry.png"
 			}
 		},
 		{
@@ -1346,7 +1346,7 @@
 			"type": "Creature — Snake ",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/125_Feiyi Viper.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/125_Feiyi Viper.png"
 			}
 		},
 		{
@@ -1356,7 +1356,7 @@
 			"type": "Creature — Pangolin ",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/131_Scavenging Pangolin.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/131_Scavenging Pangolin.png"
 			}
 		},
 		{
@@ -1366,7 +1366,7 @@
 			"type": "Creature — Beast ",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/116_Auspicious Si.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/116_Auspicious Si.png"
 			}
 		},
 		{
@@ -1376,7 +1376,7 @@
 			"type": "Creature — Cat ",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/123_Earthmane Lion.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/123_Earthmane Lion.png"
 			}
 		},
 		{
@@ -1386,7 +1386,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/119_Channel the Stampede.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/119_Channel the Stampede.png"
 			}
 		},
 		{
@@ -1396,7 +1396,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/75_Hidden Viper Acolyte.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/75_Hidden Viper Acolyte.png"
 			}
 		},
 		{
@@ -1406,7 +1406,7 @@
 			"type": "Creature — Ox Snake ",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/80_Mire-Breath Fei.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/80_Mire-Breath Fei.png"
 			}
 		},
 		{
@@ -1416,7 +1416,7 @@
 			"type": "Creature — Warrior Cleric ",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/78_Legion Hematurge.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/78_Legion Hematurge.png"
 			}
 		},
 		{
@@ -1426,7 +1426,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/86_Soulpuppet Disciple.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/86_Soulpuppet Disciple.png"
 			}
 		},
 		{
@@ -1436,7 +1436,7 @@
 			"type": "Instant",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/77_Instinctive Obedience.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/77_Instinctive Obedience.png"
 			}
 		},
 		{
@@ -1446,7 +1446,7 @@
 			"type": "Sorcery",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/76_Imperial Judgment.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/76_Imperial Judgment.png"
 			}
 		},
 		{
@@ -1456,7 +1456,7 @@
 			"type": "Sorcery",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/88_Summary Execution.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/88_Summary Execution.png"
 			}
 		},
 		{
@@ -1466,7 +1466,7 @@
 			"type": "Legendary Enchantment Creature — Avatar ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/7_Dao of Fealty.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/7_Dao of Fealty.png"
 			}
 		},
 		{
@@ -1476,7 +1476,7 @@
 			"type": "Legendary Enchantment Creature — Avatar ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/35_Dao of Control.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/35_Dao of Control.png"
 			}
 		},
 		{
@@ -1486,7 +1486,7 @@
 			"type": "Legendary Enchantment Creature — Avatar ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/97_Dao of Brutality.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/97_Dao of Brutality.png"
 			}
 		},
 		{
@@ -1496,7 +1496,7 @@
 			"type": "Legendary Enchantment Creature — Avatar ",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/121_Dao of Growth.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/121_Dao of Growth.png"
 			}
 		},
 		{
@@ -1506,7 +1506,7 @@
 			"type": "Legendary Enchantment Creature — Avatar ",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/67_Dao of Persistence.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/67_Dao of Persistence.png"
 			}
 		},
 		{
@@ -1516,7 +1516,7 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/110_Searing Knowledge.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/110_Searing Knowledge.png"
 			}
 		},
 		{
@@ -1526,7 +1526,7 @@
 			"type": "Legendary Planeswalker — Yanling ",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/48_Mu Yanling, Skydancer.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/48_Mu Yanling, Skydancer.png"
 			}
 		},
 		{
@@ -1536,7 +1536,7 @@
 			"type": "Sorcery",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/71_Dominate Soul.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/71_Dominate Soul.png"
 			}
 		},
 		{
@@ -1546,7 +1546,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/65_Chen Mubai, Indulgent Scion.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/65_Chen Mubai, Indulgent Scion.png"
 			}
 		},
 		{
@@ -1556,7 +1556,7 @@
 			"type": "Creature — Zombie ",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/85_Refined Corpse.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/85_Refined Corpse.png"
 			}
 		},
 		{
@@ -1566,13 +1566,13 @@
 			"type": "Creature — Cat Snake ",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/141_Crouching Tigerviper_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/141_Crouching Tigerviper_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/141_Crouching Tigerviper_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/141_Crouching Tigerviper_back.png"
 				}
 			}
 		},
@@ -1583,7 +1583,7 @@
 			"type": "Creature — Bird Dog ",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/102_Fervent Roosterhound.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/102_Fervent Roosterhound.png"
 			}
 		},
 		{
@@ -1593,13 +1593,13 @@
 			"type": "Creature — Beast ",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/139_Avaricious Taotie_front.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/139_Avaricious Taotie_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/139_Avaricious Taotie_back.png"
+					"en": "https://kxu9969.github.io/sets/DTH-files/img/139_Avaricious Taotie_back.png"
 				}
 			}
 		},
@@ -1610,7 +1610,7 @@
 			"type": "Creature — Monkey Spirit ",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/106_Hateful Ancestor.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/106_Hateful Ancestor.png"
 			}
 		},
 		{
@@ -1620,7 +1620,7 @@
 			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/64_Bloodline Extraction.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/64_Bloodline Extraction.png"
 			}
 		},
 		{
@@ -1630,7 +1630,7 @@
 			"type": "Creature — Mystic Demon Spirit ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/84_Possessed Cultivator.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/84_Possessed Cultivator.png"
 			}
 		},
 		{
@@ -1640,7 +1640,7 @@
 			"type": "Creature — Mystic Spirit ",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/133_Spiritsong Ancestor.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/133_Spiritsong Ancestor.png"
 			}
 		},
 		{
@@ -1650,7 +1650,7 @@
 			"type": "Instant",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/49_Offhand Dispersal.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/49_Offhand Dispersal.png"
 			}
 		},
 		{
@@ -1660,7 +1660,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/41_Jade Steps Acolyte.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/41_Jade Steps Acolyte.png"
 			}
 		},
 		{
@@ -1670,7 +1670,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/28_Archivist Emeritus.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/28_Archivist Emeritus.png"
 			}
 		},
 		{
@@ -1680,7 +1680,7 @@
 			"type": "Creature — Zombie Mystic ",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/68_Death Cultivator.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/68_Death Cultivator.png"
 			}
 		},
 		{
@@ -1690,7 +1690,7 @@
 			"type": "Creature — Beast ",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/129_Rampaging Warbeast.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/129_Rampaging Warbeast.png"
 			}
 		},
 		{
@@ -1700,7 +1700,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/45_Mirror River Conjurer.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/45_Mirror River Conjurer.png"
 			}
 		},
 		{
@@ -1710,7 +1710,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/44_Mesmeric River Lord.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/44_Mesmeric River Lord.png"
 			}
 		},
 		{
@@ -1720,7 +1720,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/55_Soulpuppet's Strings.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/55_Soulpuppet's Strings.png"
 			}
 		},
 		{
@@ -1730,7 +1730,7 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/32_Changing of Masks.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/32_Changing of Masks.png"
 			}
 		},
 		{
@@ -1740,7 +1740,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/57_Stormcloud Sovereign.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/57_Stormcloud Sovereign.png"
 			}
 		},
 		{
@@ -1750,7 +1750,7 @@
 			"type": "Creature — Fox ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/46_Mischievous Kit.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/46_Mischievous Kit.png"
 			}
 		},
 		{
@@ -1760,7 +1760,7 @@
 			"type": "Creature — Mystic ",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/34_Cloudy Sword Initiate.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/34_Cloudy Sword Initiate.png"
 			}
 		},
 		{
@@ -1770,7 +1770,7 @@
 			"type": "Enchantment",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/30_Beguiling Mist Formation.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/30_Beguiling Mist Formation.png"
 			}
 		},
 		{
@@ -1780,7 +1780,7 @@
 			"type": "Creature — Mystic Spirit ",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/54_Soulbound Mendicant.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/54_Soulbound Mendicant.png"
 			}
 		},
 		{
@@ -1790,7 +1790,7 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/50_Overwhelming Flood.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/50_Overwhelming Flood.png"
 			}
 		},
 		{
@@ -1800,7 +1800,7 @@
 			"type": "Creature — Turtle ",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/60_Xuanwu of the Lake.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/60_Xuanwu of the Lake.png"
 			}
 		},
 		{
@@ -1810,7 +1810,7 @@
 			"type": "Instant",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/93_Bonk.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/93_Bonk.png"
 			}
 		},
 		{
@@ -1820,7 +1820,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/19_Shitai Slays a God.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/19_Shitai Slays a God.png"
 			}
 		},
 		{
@@ -1830,7 +1830,7 @@
 			"type": "Creature — Spirit Advisor ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/4_Bonemask Eunuch.png"
+				"en": "https://kxu9969.github.io/sets/DTH-files/img/4_Bonemask Eunuch.png"
 			}
 		},
 		]
