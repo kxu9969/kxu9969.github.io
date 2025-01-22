@@ -1,0 +1,2015 @@
+﻿[CustomCards]
+	[	{
+			"name": "Wang Lishen, Thrice-Risen",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Warrior ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/89_Wang Lishen, Thrice-Risen.png"
+			}
+		},
+		{
+			"name": "Phoenix Guard Evangelist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Warrior ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/82_Phoenix Guard Evangelist.png"
+			}
+		},
+		{
+			"name": "Corpse Dance Technique",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/66_Corpse Dance Technique.png"
+			}
+		},
+		{
+			"name": "Sun Baitou, Stone-Crowned",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Monkey ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/114_Sun Baitou, Stone-Crowned.png"
+			}
+		},
+		{
+			"name": "Fang Mountain Howler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Monkey ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/101_Fang Mountain Howler.png"
+			}
+		},
+		{
+			"name": "Demon of Heavenly Wrath",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Demon Spirit ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/8_Demon of Heavenly Wrath.png"
+			}
+		},
+		{
+			"name": "Blade of the Bloodstealer",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/151_Blade of the Bloodstealer.png"
+			}
+		},
+		{
+			"name": "The Great Bastion",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/154_The Great Bastion.png"
+			}
+		},
+		{
+			"name": "Burning Spirit Technique",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/94_Burning Spirit Technique.png"
+			}
+		},
+		{
+			"name": "Suntouched Reaper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Demon ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/23_Suntouched Reaper.png"
+			}
+		},
+		{
+			"name": "Terrormaw, Hundred-Fanged",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Legendary Creature — Bear Hydra ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/136_Terrormaw, Hundred-Fanged.png"
+			}
+		},
+		{
+			"name": "Stormsquall Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/174_Stormsquall Battlefield.png"
+			}
+		},
+		{
+			"name": "Phoenix Guard Shieldbearer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Warrior ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/83_Phoenix Guard Shieldbearer.png"
+			}
+		},
+		{
+			"name": "Flameclaw Boar",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Boar ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/126_Flameclaw Boar.png"
+			}
+		},
+		{
+			"name": "Clothblade Yaoguai",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Imp ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/5_Clothblade Yaoguai.png"
+			}
+		},
+		{
+			"name": "Wandering Cultivator",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Mystic ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/59_Wandering Cultivator.png"
+			}
+		},
+		{
+			"name": "Soulshroud Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/173_Soulshroud Battlefield.png"
+			}
+		},
+		{
+			"name": "Bonegulch Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/162_Bonegulch Battlefield.png"
+			}
+		},
+		{
+			"name": "Heavenfell Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/168_Heavenfell Battlefield.png"
+			}
+		},
+		{
+			"name": "Mountainscar Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/170_Mountainscar Battlefield.png"
+			}
+		},
+		{
+			"name": "Cloudlost Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/163_Cloudlost Battlefield.png"
+			}
+		},
+		{
+			"name": "Dreammire Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/165_Dreammire Battlefield.png"
+			}
+		},
+		{
+			"name": "Floodstorm Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/166_Floodstorm Battlefield.png"
+			}
+		},
+		{
+			"name": "Corpserisen Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/164_Corpserisen Battlefield.png"
+			}
+		},
+		{
+			"name": "Valleyflame Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/175_Valleyflame Battlefield.png"
+			}
+		},
+		{
+			"name": "Training Spirit",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Spirit Construct ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/160_Training Spirit.png"
+			}
+		},
+		{
+			"name": "Child of Fang Mountain",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Monkey ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/95_Child of Fang Mountain.png"
+			}
+		},
+		{
+			"name": "Battle for Fang Mountain",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Siege ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/90_Battle for Fang Mountain_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/90_Battle for Fang Mountain_back.png"
+				}
+			}
+		},
+		{
+			"name": "Battle for Thousand-Blade Forest",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Battle — Siege ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/117_Battle for Thousand-Blade Forest_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/117_Battle for Thousand-Blade Forest_back.png"
+				}
+			}
+		},
+		{
+			"name": "Flying Sword",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/153_Flying Sword.png"
+			}
+		},
+		{
+			"name": "Yaoguai Driver",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Imp  Spirit ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/27_Yaoguai Driver.png"
+			}
+		},
+		{
+			"name": "Jadeflower Pill",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/155_Jadeflower Pill.png"
+			}
+		},
+		{
+			"name": "Battle for Alabaster Gate",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Battle — Siege ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/3_Battle for Alabaster Gate_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/3_Battle for Alabaster Gate_back.png"
+				}
+			}
+		},
+		{
+			"name": "Shitai, Usurper in Heaven",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/20_Shitai, Usurper in Heaven.png"
+			}
+		},
+		{
+			"name": "Demon of Tithes",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Demon ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/10_Demon of Tithes.png"
+			}
+		},
+		{
+			"name": "Yaoguai Bladedancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Demon ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/26_Yaoguai Bladedancer.png"
+			}
+		},
+		{
+			"name": "Sunder the Foulblooded",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/22_Sunder the Foulblooded.png"
+			}
+		},
+		{
+			"name": "Furnace Body Technique",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/14_Furnace Body Technique.png"
+			}
+		},
+		{
+			"name": "Lin Taifeng, Storm Driver",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Mystic ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/43_Lin Taifeng, Storm Driver.png"
+			}
+		},
+		{
+			"name": "Surging Fist Technique",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/135_Surging Fist Technique.png"
+			}
+		},
+		{
+			"name": "Battle for the Thunder Peaks",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Battle — Siege ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/29_Battle for the Thunder Peaks_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/29_Battle for the Thunder Peaks_back.png"
+				}
+			}
+		},
+		{
+			"name": "Emperor's Evangel",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Warrior Cleric ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/72_Emperor's Evangel.png"
+			}
+		},
+		{
+			"name": "Hozen Linebreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Goblin Warrior ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/144_Hozen Linebreaker.png"
+			}
+		},
+		{
+			"name": "Alabaster Grovetender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Demon ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/138_Alabaster Grovetender.png"
+			}
+		},
+		{
+			"name": "Hidden Viper Patriarch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Mystic ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/143_Hidden Viper Patriarch.png"
+			}
+		},
+		{
+			"name": "Awakened Earthsplitter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/140_Awakened Earthsplitter.png"
+			}
+		},
+		{
+			"name": "Battle for the Great Bastion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Battle — Siege ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/61_Battle for the Great Bastion_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/61_Battle for the Great Bastion_back.png"
+				}
+			}
+		},
+		{
+			"name": "Jadeblossom Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/127_Jadeblossom Charm.png"
+			}
+		},
+		{
+			"name": "Deathblossom Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/69_Deathblossom Charm.png"
+			}
+		},
+		{
+			"name": "Sunblossom Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/21_Sunblossom Charm.png"
+			}
+		},
+		{
+			"name": "Breathblossom Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/31_Breathblossom Charm.png"
+			}
+		},
+		{
+			"name": "Emberblossom Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/99_Emberblossom Charm.png"
+			}
+		},
+		{
+			"name": "Misty Step Technique",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/47_Misty Step Technique.png"
+			}
+		},
+		{
+			"name": "Thunderwreath Boar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Boar ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/137_Thunderwreath Boar.png"
+			}
+		},
+		{
+			"name": "Scorching Phoenixfire",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/109_Scorching Phoenixfire.png"
+			}
+		},
+		{
+			"name": "Consign to the Heavens",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/6_Consign to the Heavens.png"
+			}
+		},
+		{
+			"name": "Yihuo, the Fireblood",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Phoenix ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/145_Yihuo, the Fireblood.png"
+			}
+		},
+		{
+			"name": "Boulderhide Wrecker",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/118_Boulderhide Wrecker.png"
+			}
+		},
+		{
+			"name": "Savagery Speaker",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Shaman ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/130_Savagery Speaker.png"
+			}
+		},
+		{
+			"name": "Yihuo Escapes the Heavens",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/115_Yihuo Escapes the Heavens.png"
+			}
+		},
+		{
+			"name": "Mogui Motivator",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Ogre ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/107_Mogui Motivator.png"
+			}
+		},
+		{
+			"name": "Bone Clan Skullweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Creature — Ogre Shaman ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/146_Bone Clan Skullweaver.png"
+			}
+		},
+		{
+			"name": "Wildsoul Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/G}{R/G}",
+			"type": "Creature — Mystic ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/150_Wildsoul Channeler.png"
+			}
+		},
+		{
+			"name": "Scholar of Secret Paths",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Creature — Mystic ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/148_Scholar of Secret Paths.png"
+			}
+		},
+		{
+			"name": "Demon of Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G/W}{G/W}",
+			"type": "Creature — Demon ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/147_Demon of Rebirth.png"
+			}
+		},
+		{
+			"name": "Earthhide Hermit",
+			"rarity": "common",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Mystic ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/122_Earthhide Hermit.png"
+			}
+		},
+		{
+			"name": "Demonbone Channeler",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Mystic ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/70_Demonbone Channeler.png"
+			}
+		},
+		{
+			"name": "Bloodlily Formation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/63_Bloodlily Formation.png"
+			}
+		},
+		{
+			"name": "Strike of the Tigerviper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/87_Strike of the Tigerviper.png"
+			}
+		},
+		{
+			"name": "Explore the Archive",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/36_Explore the Archive.png"
+			}
+		},
+		{
+			"name": "Purging the Meridians",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/52_Purging the Meridians.png"
+			}
+		},
+		{
+			"name": "Transcend Tribulation",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/58_Transcend Tribulation.png"
+			}
+		},
+		{
+			"name": "Internal Deviation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/16_Internal Deviation.png"
+			}
+		},
+		{
+			"name": "Failure of Morale",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Battle — Curse Siege ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/12_Failure of Morale_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/12_Failure of Morale_back.png"
+				}
+			}
+		},
+		{
+			"name": "Failure of Discipline",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment Battle — Curse Siege ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/100_Failure of Discipline_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/100_Failure of Discipline_back.png"
+				}
+			}
+		},
+		{
+			"name": "Failure of Strategy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment Battle — Curse Siege ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/37_Failure of Strategy_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/37_Failure of Strategy_back.png"
+				}
+			}
+		},
+		{
+			"name": "Failure of Logistics",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Battle — Curse Siege ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/124_Failure of Logistics_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/124_Failure of Logistics_back.png"
+				}
+			}
+		},
+		{
+			"name": "Failure of Vitality",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment Battle — Curse Siege ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/73_Failure of Vitality_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/73_Failure of Vitality_back.png"
+				}
+			}
+		},
+		{
+			"name": "Divine Law Formation",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/11_Divine Law Formation.png"
+			}
+		},
+		{
+			"name": "Dancing Lights Formation",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/96_Dancing Lights Formation.png"
+			}
+		},
+		{
+			"name": "Molded Earth Formation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/128_Molded Earth Formation.png"
+			}
+		},
+		{
+			"name": "Defy the Heavens",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/98_Defy the Heavens.png"
+			}
+		},
+		{
+			"name": "Chart the Hidden Realm",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/120_Chart the Hidden Realm.png"
+			}
+		},
+		{
+			"name": "Fireblood Visions",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/103_Fireblood Visions.png"
+			}
+		},
+		{
+			"name": "Pill Cauldron",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/156_Pill Cauldron.png"
+			}
+		},
+		{
+			"name": "Furnace Explosion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/105_Furnace Explosion.png"
+			}
+		},
+		{
+			"name": "Mindshatter Ascent",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/169_Mindshatter Ascent.png"
+			}
+		},
+		{
+			"name": "Skullcarved Ascent",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/171_Skullcarved Ascent.png"
+			}
+		},
+		{
+			"name": "Heartscorch Ascent",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/167_Heartscorch Ascent.png"
+			}
+		},
+		{
+			"name": "Astralweave Ascent",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains  ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/161_Astralweave Ascent.png"
+			}
+		},
+		{
+			"name": "Soulbound Ascent",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/172_Soulbound Ascent.png"
+			}
+		},
+		{
+			"name": "True Sun Skyblade",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Mystic ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/24_True Sun Skyblade.png"
+			}
+		},
+		{
+			"name": "Qi-Siphon Yaoguai",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Imp ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/18_Qi-Siphon Yaoguai.png"
+			}
+		},
+		{
+			"name": "Winged Herald",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Demon ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/25_Winged Herald.png"
+			}
+		},
+		{
+			"name": "Aspirant of the First Blaze",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Mystic ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/1_Aspirant of the First Blaze.png"
+			}
+		},
+		{
+			"name": "Banewing Judge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Demon ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/2_Banewing Judge.png"
+			}
+		},
+		{
+			"name": "Killing Intent",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/42_Killing Intent.png"
+			}
+		},
+		{
+			"name": "Flickersword Fodder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Imp ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/13_Flickersword Fodder.png"
+			}
+		},
+		{
+			"name": "Demon of Sanctions",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Demon ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/9_Demon of Sanctions.png"
+			}
+		},
+		{
+			"name": "Jailor of the Heavens",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Creature — Demon ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/17_Jailor of the Heavens.png"
+			}
+		},
+		{
+			"name": "Flameblood Apothecary",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Warlock ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/74_Flameblood Apothecary.png"
+			}
+		},
+		{
+			"name": "Blade of Bloodlines",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/62_Blade of Bloodlines.png"
+			}
+		},
+		{
+			"name": "Bo Staff of the Shapeshifter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/91_Bo Staff of the Shapeshifter.png"
+			}
+		},
+		{
+			"name": "Guzheng of Illusions",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/39_Guzheng of Illusions.png"
+			}
+		},
+		{
+			"name": "Ninth Legion Soul Puppet",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Zombie Horror ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/81_Ninth Legion Soul Puppet.png"
+			}
+		},
+		{
+			"name": "Shattered Valley Devastator",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/132_Shattered Valley Devastator.png"
+			}
+		},
+		{
+			"name": "Soulfire Immolator",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Ogre ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/112_Soulfire Immolator.png"
+			}
+		},
+		{
+			"name": "Sovereign of the Realm",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Sphinx ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/56_Sovereign of the Realm.png"
+			}
+		},
+		{
+			"name": "Heavenly Host Sanctifier",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Demon ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/15_Heavenly Host Sanctifier.png"
+			}
+		},
+		{
+			"name": "Sunderbreath Pill",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/159_Sunderbreath Pill.png"
+			}
+		},
+		{
+			"name": "Snowblossom Orchid Pill",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Food ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/157_Snowblossom Orchid Pill.png"
+			}
+		},
+		{
+			"name": "Caged Devourer",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/152_Caged Devourer.png"
+			}
+		},
+		{
+			"name": "Spiritstone Harvester",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/158_Spiritstone Harvester.png"
+			}
+		},
+		{
+			"name": "Chase the Wind",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/33_Chase the Wind.png"
+			}
+		},
+		{
+			"name": "Mogui of the Slaughterfields",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ogre Spirit ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/108_Mogui of the Slaughterfields.png"
+			}
+		},
+		{
+			"name": "Stoneclad Pup",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Armadillo Spirit ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/134_Stoneclad Pup.png"
+			}
+		},
+		{
+			"name": "Stonefist Driver",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/113_Stonefist Driver.png"
+			}
+		},
+		{
+			"name": "Lingering Legionnaire",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Warrior Spirit ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/79_Lingering Legionnaire.png"
+			}
+		},
+		{
+			"name": "Greatshell Sage",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Turtle Mystic ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/38_Greatshell Sage.png"
+			}
+		},
+		{
+			"name": "True Sun Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Creature — Mystic ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/149_True Sun Recruiter.png"
+			}
+		},
+		{
+			"name": "Demon of Lost Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Demon ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/142_Demon of Lost Knowledge.png"
+			}
+		},
+		{
+			"name": "Inner Sect Adherent",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Mystic ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/40_Inner Sect Adherent.png"
+			}
+		},
+		{
+			"name": "Sealed Savant",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Mystic ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/53_Sealed Savant.png"
+			}
+		},
+		{
+			"name": "Patriarch's Intervention",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/51_Patriarch's Intervention.png"
+			}
+		},
+		{
+			"name": "Seeker of the Raucous Path",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Mystic ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/111_Seeker of the Raucous Path.png"
+			}
+		},
+		{
+			"name": "Bone Clan Sharpshooter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Ogre Archer ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/92_Bone Clan Sharpshooter.png"
+			}
+		},
+		{
+			"name": "Firecracker Cavalry",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Cat Beast ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/104_Firecracker Cavalry.png"
+			}
+		},
+		{
+			"name": "Feiyi Viper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/125_Feiyi Viper.png"
+			}
+		},
+		{
+			"name": "Scavenging Pangolin",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Pangolin ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/131_Scavenging Pangolin.png"
+			}
+		},
+		{
+			"name": "Auspicious Si",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/116_Auspicious Si.png"
+			}
+		},
+		{
+			"name": "Earthmane Lion",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Cat ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/123_Earthmane Lion.png"
+			}
+		},
+		{
+			"name": "Channel the Stampede",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/119_Channel the Stampede.png"
+			}
+		},
+		{
+			"name": "Hidden Viper Acolyte",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Mystic ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/75_Hidden Viper Acolyte.png"
+			}
+		},
+		{
+			"name": "Mire-Breath Fei",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Ox Snake ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/80_Mire-Breath Fei.png"
+			}
+		},
+		{
+			"name": "Legion Hematurge",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Warrior Cleric ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/78_Legion Hematurge.png"
+			}
+		},
+		{
+			"name": "Soulpuppet Disciple",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Mystic ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/86_Soulpuppet Disciple.png"
+			}
+		},
+		{
+			"name": "Instinctive Obedience",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/77_Instinctive Obedience.png"
+			}
+		},
+		{
+			"name": "Imperial Judgment",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/76_Imperial Judgment.png"
+			}
+		},
+		{
+			"name": "Summary Execution",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/88_Summary Execution.png"
+			}
+		},
+		{
+			"name": "Dao of Fealty",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Enchantment Creature — Avatar ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/7_Dao of Fealty.png"
+			}
+		},
+		{
+			"name": "Dao of Control",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Enchantment Creature — Avatar ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/35_Dao of Control.png"
+			}
+		},
+		{
+			"name": "Dao of Brutality",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Enchantment Creature — Avatar ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/97_Dao of Brutality.png"
+			}
+		},
+		{
+			"name": "Dao of Growth",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Enchantment Creature — Avatar ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/121_Dao of Growth.png"
+			}
+		},
+		{
+			"name": "Dao of Persistence",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Enchantment Creature — Avatar ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/67_Dao of Persistence.png"
+			}
+		},
+		{
+			"name": "Searing Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/110_Searing Knowledge.png"
+			}
+		},
+		{
+			"name": "Mu Yanling, Skydancer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Planeswalker — Yanling ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/48_Mu Yanling, Skydancer.png"
+			}
+		},
+		{
+			"name": "Dominate Soul",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/71_Dominate Soul.png"
+			}
+		},
+		{
+			"name": "Chen Mubai, Indulgent Scion",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Mystic ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/65_Chen Mubai, Indulgent Scion.png"
+			}
+		},
+		{
+			"name": "Refined Corpse",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/85_Refined Corpse.png"
+			}
+		},
+		{
+			"name": "Crouching Tigerviper",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Creature — Cat Snake ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/141_Crouching Tigerviper_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/141_Crouching Tigerviper_back.png"
+				}
+			}
+		},
+		{
+			"name": "Fervent Roosterhound",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bird Dog ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/102_Fervent Roosterhound.png"
+			}
+		},
+		{
+			"name": "Avaricious Taotie",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/139_Avaricious Taotie_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/139_Avaricious Taotie_back.png"
+				}
+			}
+		},
+		{
+			"name": "Hateful Ancestor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Monkey Spirit ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/106_Hateful Ancestor.png"
+			}
+		},
+		{
+			"name": "Bloodline Extraction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/64_Bloodline Extraction.png"
+			}
+		},
+		{
+			"name": "Possessed Cultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Mystic Demon Spirit ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/84_Possessed Cultivator.png"
+			}
+		},
+		{
+			"name": "Spiritsong Ancestor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Mystic Spirit ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/133_Spiritsong Ancestor.png"
+			}
+		},
+		{
+			"name": "Offhand Dispersal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/49_Offhand Dispersal.png"
+			}
+		},
+		{
+			"name": "Jade Steps Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Mystic ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/41_Jade Steps Acolyte.png"
+			}
+		},
+		{
+			"name": "Archivist Emeritus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Mystic ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/28_Archivist Emeritus.png"
+			}
+		},
+		{
+			"name": "Death Cultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Zombie Mystic ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/68_Death Cultivator.png"
+			}
+		},
+		{
+			"name": "Rampaging Warbeast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/129_Rampaging Warbeast.png"
+			}
+		},
+		{
+			"name": "Mirror River Conjurer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Mystic ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/45_Mirror River Conjurer.png"
+			}
+		},
+		{
+			"name": "Mesmeric River Lord",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dragon ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/44_Mesmeric River Lord.png"
+			}
+		},
+		{
+			"name": "Soulpuppet's Strings",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/55_Soulpuppet's Strings.png"
+			}
+		},
+		{
+			"name": "Changing of Masks",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/32_Changing of Masks.png"
+			}
+		},
+		{
+			"name": "Stormcloud Sovereign",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/57_Stormcloud Sovereign.png"
+			}
+		},
+		{
+			"name": "Mischievous Kit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fox ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/46_Mischievous Kit.png"
+			}
+		},
+		{
+			"name": "Cloudy Sword Initiate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Mystic ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/34_Cloudy Sword Initiate.png"
+			}
+		},
+		{
+			"name": "Beguiling Mist Formation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/30_Beguiling Mist Formation.png"
+			}
+		},
+		{
+			"name": "Soulbound Mendicant",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Mystic Spirit ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/54_Soulbound Mendicant.png"
+			}
+		},
+		{
+			"name": "Overwhelming Flood",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/50_Overwhelming Flood.png"
+			}
+		},
+		{
+			"name": "Xuanwu of the Lake",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Turtle ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/60_Xuanwu of the Lake.png"
+			}
+		},
+		{
+			"name": "Bonk",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/93_Bonk.png"
+			}
+		},
+		{
+			"name": "Shitai Slays a God",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/19_Shitai Slays a God.png"
+			}
+		},
+		{
+			"name": "Bonemask Eunuch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Advisor ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/kxu9969/kxu9969.github.io/sets/DTH-files/img/4_Bonemask Eunuch.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Wang Lishen, Thrice-Risen
+		2 Sun Baitou, Stone-Crowned
+		2 Demon of Heavenly Wrath
+		2 The Great Bastion
+		2 Terrormaw, Hundred-Fanged
+		2 Sunder the Foulblooded
+		2 Lin Taifeng, Storm Driver
+		2 Mindshatter Ascent
+		2 Skullcarved Ascent
+		2 Heartscorch Ascent
+		2 Astralweave Ascent
+		2 Soulbound Ascent
+		2 Flameblood Apothecary
+		2 Blade of Bloodlines
+		2 Bo Staff of the Shapeshifter
+		2 Guzheng of Illusions
+		2 Dominate Soul
+		2 Crouching Tigerviper
+		2 Avaricious Taotie
+		1 Blade of the Bloodstealer
+		1 Shitai, Usurper in Heaven
+		1 Yihuo, the Fireblood
+		1 Dao of Fealty
+		1 Dao of Control
+		1 Dao of Brutality
+		1 Dao of Growth
+		1 Dao of Persistence
+		1 Mu Yanling, Skydancer
+		1 Chen Mubai, Indulgent Scion
+		[UncommonSlot(3)]
+	9 Phoenix Guard Evangelist
+		9 Fang Mountain Howler
+		9 Suntouched Reaper
+		9 Flying Sword
+		9 Yaoguai Bladedancer
+		9 Hozen Linebreaker
+		9 Alabaster Grovetender
+		9 Hidden Viper Patriarch
+		9 Awakened Earthsplitter
+		9 Jadeblossom Charm
+		9 Deathblossom Charm
+		9 Sunblossom Charm
+		9 Breathblossom Charm
+		9 Emberblossom Charm
+		9 Savagery Speaker
+		9 Yihuo Escapes the Heavens
+		9 Bone Clan Skullweaver
+		9 Wildsoul Channeler
+		9 Scholar of Secret Paths
+		9 Demon of Rebirth
+		9 Bloodlily Formation
+		9 Internal Deviation
+		9 Failure of Morale
+		9 Failure of Discipline
+		9 Failure of Strategy
+		9 Failure of Logistics
+		9 Failure of Vitality
+		9 Pill Cauldron
+		9 Banewing Judge
+		9 Chase the Wind
+		9 True Sun Recruiter
+		9 Demon of Lost Knowledge
+		9 Searing Knowledge
+		9 Refined Corpse
+		9 Fervent Roosterhound
+		9 Hateful Ancestor
+		9 Bloodline Extraction
+		9 Possessed Cultivator
+		9 Spiritsong Ancestor
+		9 Offhand Dispersal
+		9 Jade Steps Acolyte
+		9 Archivist Emeritus
+		9 Death Cultivator
+		9 Rampaging Warbeast
+		9 Mirror River Conjurer
+		9 Mesmeric River Lord
+		9 Soulpuppet's Strings
+		9 Changing of Masks
+		9 Stormcloud Sovereign
+		9 Mischievous Kit
+		9 Overwhelming Flood
+		9 Xuanwu of the Lake
+		9 Bonk
+		9 Shitai Slays a God
+		9 Bonemask Eunuch
+		[CommonSlot(10)]
+	30 Corpse Dance Technique
+		30 Burning Spirit Technique
+		30 Stormsquall Battlefield
+		30 Phoenix Guard Shieldbearer
+		30 Flameclaw Boar
+		30 Clothblade Yaoguai
+		30 Wandering Cultivator
+		30 Soulshroud Battlefield
+		30 Bonegulch Battlefield
+		30 Heavenfell Battlefield
+		30 Mountainscar Battlefield
+		30 Cloudlost Battlefield
+		30 Dreammire Battlefield
+		30 Floodstorm Battlefield
+		30 Corpserisen Battlefield
+		30 Valleyflame Battlefield
+		30 Training Spirit
+		30 Child of Fang Mountain
+		30 Battle for Fang Mountain
+		30 Battle for Thousand-Blade Forest
+		30 Yaoguai Driver
+		30 Jadeflower Pill
+		30 Battle for Alabaster Gate
+		30 Demon of Tithes
+		30 Furnace Body Technique
+		30 Surging Fist Technique
+		30 Battle for the Thunder Peaks
+		30 Emperor's Evangel
+		30 Battle for the Great Bastion
+		30 Misty Step Technique
+		30 Thunderwreath Boar
+		30 Scorching Phoenixfire
+		30 Consign to the Heavens
+		30 Boulderhide Wrecker
+		30 Mogui Motivator
+		30 Earthhide Hermit
+		30 Demonbone Channeler
+		30 Strike of the Tigerviper
+		30 Explore the Archive
+		30 Purging the Meridians
+		30 Transcend Tribulation
+		30 Divine Law Formation
+		30 Dancing Lights Formation
+		30 Molded Earth Formation
+		30 Defy the Heavens
+		30 Chart the Hidden Realm
+		30 Fireblood Visions
+		30 Furnace Explosion
+		30 True Sun Skyblade
+		30 Qi-Siphon Yaoguai
+		30 Winged Herald
+		30 Aspirant of the First Blaze
+		30 Killing Intent
+		30 Flickersword Fodder
+		30 Demon of Sanctions
+		30 Jailor of the Heavens
+		30 Ninth Legion Soul Puppet
+		30 Shattered Valley Devastator
+		30 Soulfire Immolator
+		30 Sovereign of the Realm
+		30 Heavenly Host Sanctifier
+		30 Sunderbreath Pill
+		30 Snowblossom Orchid Pill
+		30 Caged Devourer
+		30 Spiritstone Harvester
+		30 Mogui of the Slaughterfields
+		30 Stoneclad Pup
+		30 Stonefist Driver
+		30 Lingering Legionnaire
+		30 Greatshell Sage
+		30 Inner Sect Adherent
+		30 Sealed Savant
+		30 Patriarch's Intervention
+		30 Seeker of the Raucous Path
+		30 Bone Clan Sharpshooter
+		30 Firecracker Cavalry
+		30 Feiyi Viper
+		30 Scavenging Pangolin
+		30 Auspicious Si
+		30 Earthmane Lion
+		30 Channel the Stampede
+		30 Hidden Viper Acolyte
+		30 Mire-Breath Fei
+		30 Legion Hematurge
+		30 Soulpuppet Disciple
+		30 Instinctive Obedience
+		30 Imperial Judgment
+		30 Summary Execution
+		30 Cloudy Sword Initiate
+		30 Beguiling Mist Formation
+		30 Soulbound Mendicant
+		
