@@ -1,4 +1,553 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Jian, Arrowleaf Awakened added.
+Vibrant Shimmermoth added.
+Wen of the Cycle added.
+Trample Underfoot added.
+Avenging Shrieker added.
+Sudden Bloodlust added.
+Sun Baitou, Trickster in Heaven added.
+Mire the Mind added.
+Seal in Mist added.
+Pearlscar, Shitai's Defender added.
+Sear the Realm added.
+Riverdream Serpent added.
+Retrace the Path added.
+Onyx, True Sun Evangel added.
+Bound Tactician added.
+Shepherd of Lost Souls added.
+Thousand-Eyes, Spymaster added.
+Taiji and Momo, Rascals added.
+Breakthrough added.
+Prelate of the Fallen added.
+Unbound Wyldfire added.
+Soulpuppet's Shackles added.
+Seal in the Crystal added.
+Transcend Possibility added.
+Jin, Cloudy Sword Founder added.
+Horde Unending added.
+Breaker of Heroes added.
+Rally the Heavens added.
+Storage Ring added.
+Whiteflame, Imperial Skyship added.
+Wandering Husk added.
+Sword of the First Flame added.
+
+
+Wang Lishen, Thrice-Risen
+
+Phoenix Guard Evangelist
+
+Corpse Dance Technique
+
+Sun Baitou, Stone-Crowned
+
+Fang Mountain Howler
+
+Demon of Heavenly Wrath
+
+Blade of the Bloodstealer
+
+The Great Bastion
+
+Burning Spirit Technique
+
+Suntouched Reaper
+
+Terrormaw, Hundred-Fanged
+
+Stormsquall Battlefield
+
+Phoenix Guard Shieldbearer
+
+Flameclaw Boar
+
+Clothblade Yaoguai
+
+Wandering Cultivator
+
+Soulshroud Battlefield
+
+Bonegulch Battlefield
+
+Heavenfell Battlefield
+
+Mountainscar Battlefield
+
+Cloudlost Battlefield
+
+Dreammire Battlefield
+
+Floodstorm Battlefield
+
+Corpserisen Battlefield
+
+Valleyflame Battlefield
+
+Training Spirit
+
+Child of Fang Mountain
+
+Battle for Fang Mountain
+
+Battle for Thousand-Blade Forest
+
+Flying Sword
+
+Yaoguai Driver
+
+Jadeflower Pill
+
+Battle for Alabaster Gate
+
+Shitai, Usurper in Heaven
+
+Demon of Tithes
+
+Sunder the Foulblooded
+
+Furnace Body Technique
+
+Surging Fist Technique
+
+Battle for the Thunder Peaks
+
+Emperor's Evangel
+
+Hozen Linebreaker
+
+Alabaster Grovetender
+
+Awakened Earthsplitter
+
+Battle for the Great Bastion
+
+Jadeblossom Charm
+
+Deathblossom Charm
+
+Sunblossom Charm
+
+Breathblossom Charm
+
+Emberblossom Charm
+
+Thunderwreath Boar
+
+Scorching Phoenixfire
+
+Consign to the Heavens
+
+Yihuo, the Fireblood
+
+Boulderhide Wrecker
+
+Savagery Speaker
+
+Yihuo Escapes the Heavens
+special_text: 
+I — Deal 3 damage to all creatures.
+II — Exile the top two cards of your library. You may play them until end of turn.
+III — Target creature you control gets +3/+0 and can't be blocked this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Deal 3 damage to all creatures.
+II — Exile the top two cards of your library. You may play them until end of turn.
+III — Target creature you control gets +3/+0 and can't be blocked this turn.
+
+Mogui Motivator
+
+Bone Clan Skullweaver
+
+Wildsoul Channeler
+
+Demon of Rebirth
+
+Earthhide Hermit
+
+Demonbone Channeler
+
+Bloodlily Formation
+
+Strike of the Tigerviper
+
+Explore the Archive
+
+Purging the Meridians
+
+Transcend Tribulation
+
+Internal Deviation
+
+Failure of Morale
+
+Failure of Discipline
+
+Failure of Strategy
+
+Failure of Logistics
+
+Failure of Vitality
+
+Divine Law Formation
+
+Dancing Lights Formation
+
+Molded Earth Formation
+
+Defy the Heavens
+
+Chart the Hidden Realm
+
+Fireblood Visions
+
+Pill Cauldron
+
+Furnace Explosion
+
+Mindshatter Ascent
+
+Skullcarved Ascent
+
+Heartscorch Ascent
+
+Astralweave Ascent
+
+Soulbound Ascent
+
+True Sun Skyblade
+
+Qi-Siphon Yaoguai
+
+Winged Herald
+
+Aspirant of the First Blaze
+rules_text: Vigilance
+During your turn, this has first strike. => Vigilance
+During your turn, this creature has first strike.
+
+Banewing Judge
+
+Killing Intent
+
+Flickersword Fodder
+
+Demon of Sanctions
+
+Jailor of the Heavens
+
+Flameblood Apothecary
+
+Blade of Bloodlines
+
+Bo Staff of the Shapeshifter
+
+Guzheng of Illusions
+
+Ninth Legion Soulpuppet
+
+Shattered Valley Devastator
+
+Soulfire Immolator
+
+Shifu of Taishen Temple
+
+Heavenly Host Sanctifier
+
+Sunderbreath Pill
+
+Snowblossom Orchid Pill
+
+Caged Devourer
+
+Spiritstone Harvester
+
+Chase the Wind
+
+Mogui of the Slaughterfields
+
+Stoneclad Pup
+
+Stonefist Driver
+
+Lingering Legionnaire
+
+Greatshell Sage
+
+True Sun Recruiter
+
+Demon of Lost Knowledge
+
+Patriarch's Intervention
+
+Seeker of the Raucous Path
+
+Bone Clan Sharpshooter
+
+Firecracker Cavalry
+
+Feiyi Viper
+
+Scavenging Pangolin
+
+Auspicious Si
+
+Earthmane Lion
+
+Channel the Stampede
+
+Hidden Viper Acolyte
+
+Mire-Breath Fei
+
+Legion Hematurge
+
+Soulpuppet Disciple
+
+Instinctive Obedience
+
+Imperial Judgment
+
+Summary Execution
+
+Dao of Fealty
+
+Dao of Control
+
+Dao of Brutality
+
+Dao of Growth
+
+Dao of Persistence
+
+Searing Knowledge
+
+Mu Yanling, Skydancer
+
+Dominate Soul
+
+Chen Mubai, Indulgent Scion
+
+Qi-Refined Corpse
+
+Crouching Tigerviper
+
+Fervent Roosterhound
+
+Avaricious Taotie
+
+Bloodline Extraction
+
+Possessed Cultivator
+
+Spiritsong Ancestor
+
+Offhand Dispersal
+
+Death Cultivator
+
+Rampaging Warbeast
+
+Keeper of the Mirror River
+
+Changing of Masks
+
+Soulbound Mendicant
+
+Overwhelming Flood
+
+Bonk
+
+Shitai Slays a God
+special_text: 
+I — Exile target creature.
+II — Put three +1/+1 counters on target creature you control.
+III — Creatures you control gain indestructible until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature.
+II — Put three +1/+1 counters on target creature you control.
+III — Creatures you control gain indestructible until end of turn.
+
+Bonemask Eunuch
+
+Stonecap Infant
+
+Cloudspawn Clone
+
+Trickster's Scion
+
+Rambunctious Pair
+
+Bring Down the Mountain
+
+Ossified Petitioners
+
+Back Alley Hawker
+
+Territorial Deathmaw
+
+Courtly Scrivener
+
+Ponderous Blackshell
+
+Hozen Wrangler
+
+Fifth Legion Soulbinder
+
+Madshackle Ape
+
+Beguiling Mist Formation
+
+Sealed Savant
+
+Misty Step Technique
+
+Mischievous Kit
+
+Stormcloud Sovereign
+
+Jade Steps Acolyte
+
+Mesmeric River Lord
+
+Xuanwu of the Lake
+
+Archivist Emeritus
+
+Cloudy Sword Initiate
+
+Soulpuppet Weaving
+
+Raging Thunderwurm
+
+Hateful Ancestor
+
+Scholar of Secret Texts
+
+Hidden Viper Patriarch
+
+Flagbearer Eunuch
+
+Yaoguai Bladedancer
+
+Fifth Legion, Resurgent
+
+Noxious Graverattler
+
+Arrowleaf Awakener
+
+Timelost Hermit
+
+Tortuous Bureaucracy
+
+Maddening Curiosity
+
+Behold Infinity
+
+Legion's Mastery
+
+Blinding Talismans
+
+Summon to Service
+
+Gravebound Imitation
+
+Tenacious Defense
+
+Bladespawn Horde
+
+Bound Sovereign
+
+Yaoguai Veteran
+
+Deathborne Tyrant
+
+Bramblecrown Sovereign
+
+Verdant Overgrowth
+
+Overwhelming Vitality
+
+Molting Larva
+
+Skybreaker Behemoth
+
+Hopeful Rebirth
+
+Inner Sect Adherent
+
+True Sun Prodigy
+
+Vicious Prodigy
+
+Glaive of the Usurper
+
+Spear of Ancestors
+
+Lin Taifeng, Storm Driver
+
+Gyrestorm Conjurer
+
+Tome of Ascension
+
+Stagnant Caverns
+
+Battlepack Howler
+
+Trickster's Scion
+
+Shitai's Flanker
+
+Want Not
+
+Shaman of the Cycle
+
+Burn Bright
+
+Apocalypse Golem
+
+Skylord of Lost Legacies
+
+Inner Sanctum
+
+Seer of Possibilities
+
+Menghao, First to Ascend
+
+Merciful Culling
+
+Boisterous Hozen
+
+Bound Legion Banneret
+
+Sunder the Soulcage
+
+Steelsoul Drudge
+
+Dancing Butcherblades
+
+Imperial Atlas
+
+Qi-Binding Gauntlets
+
+The Vermilion Crown
+
+Battlefield Reaping
+
+Heart Demon of Avarice
+
+Heart Demon of Slaughter
+
+Trascendent Rebirth
+
+Huangdi, Heaven's Corpse
+
+Heartflame's Renewal
+
+Baitou's Cloudstep
+
+Khagai, the Northern Blade
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
