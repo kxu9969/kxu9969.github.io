@@ -12,7 +12,7 @@ def flipImages(setCode):
 		except IOError:
 			continue
 		width = img.width
-		#if width == 523:
-			#img_rotated = img.rotate(90, expand=True)
-			#img_rotated.save(file_path)
-			#print (filename + " rotated.")
+		if width == 523:
+			img_rotated = img.rotate(90, expand=True)
+			img_rotated.save(file_path)
+			print (filename + " rotated.")
