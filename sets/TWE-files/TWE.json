@@ -33,7 +33,25 @@
             "loyalty2": "",
             "artist2": "",
             "notes": ""
+        },
+        {
+            "card_name": "Creature",
+            "color": "G",
+            "rarity": "common",
+            "type": "Creature",
+            "number": 2,
+            "color_identity": "G",
+            "cost": "{G}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TWE",
+            "loyalty": "",
+            "artist": "",
+            "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

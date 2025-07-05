@@ -1,13 +1,30 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Test Creature",
+			"name": "Test Battle",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature",
+			"type": "Battle — Siege",
 			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kxu9969.github.io/sets/TWE-files/img/1_Test Battle_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://kxu9969.github.io/sets/TWE-files/img/1_Test Creature.jpg"
+				"en": "https://kxu9969.github.io/sets/TWE-files/img/1_Test Battle_front.jpg"
+			}
+		},
+		{
+			"name": "Creature",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kxu9969.github.io/sets/TWE-files/img/2_Creature.jpg"
 			}
 		}
 	]
@@ -15,6 +32,8 @@
 [rare(1)]
 [uncommon(4)]
 [common(7)]
-	8 Test Creature
+	8 Test Battle
+	8 Creature
 [wildcard(2)]
-	6 Test Creature
+	6 Test Battle
+	6 Creature

@@ -15,7 +15,10 @@
         "set": "TWE"
     },
     {
-        "card_name": "e"
+        "card_name": "Creature",
+        "number": 2,
+        "shape": "normal",
+        "set": "TWE"
     },
     {
         "card_name": "er"
