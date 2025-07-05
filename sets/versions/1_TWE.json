@@ -1,0 +1,28 @@
+﻿{
+    "name": "",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "cards": [
+        {
+            "card_name": "Test Creature",
+            "color": "R",
+            "rarity": "common",
+            "type": "Creature",
+            "number": 1,
+            "color_identity": "R",
+            "cost": "{R}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TWE",
+            "loyalty": "",
+            "artist": "",
+            "notes": ""
+        }
+    ]
+}

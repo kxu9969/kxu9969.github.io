@@ -1,0 +1,27 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Test",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kxu9969.github.io/sets/TW2-files/img/1_Test_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://kxu9969.github.io/sets/TW2-files/img/1_Test_front.jpg"
+			}
+		},
+	]
+
+[rare(1)]
+[uncommon(4)]
+[common(7)]
+	8 Test
+[wildcard(2)]
+	6 Test

@@ -1,0 +1,20 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Test Creature",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kxu9969.github.io/sets/TWE-files/img/1_Test Creature.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(4)]
+[common(7)]
+	8 Test Creature
+[wildcard(2)]
+	6 Test Creature
