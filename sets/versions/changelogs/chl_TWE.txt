@@ -1,4 +1,12 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Test Battle added.
+
+Test Creature removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

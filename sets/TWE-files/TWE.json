@@ -7,23 +7,33 @@
     "unpreviewed": "card back",
     "cards": [
         {
-            "card_name": "Test Creature",
+            "card_name": "Test Battle",
             "color": "R",
             "rarity": "common",
-            "type": "Creature",
+            "type": "Battle \u2014 Siege",
             "number": 1,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "",
+            "rules_text": "Whent his battle enters, target player discards a card",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "double faced",
             "set": "TWE",
             "loyalty": "",
             "artist": "",
+            "card_name2": "Won battle",
+            "color2": "R",
+            "type2": "Creature",
+            "cost2": "",
+            "rules_text2": "Wahoo",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "",
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

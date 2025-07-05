@@ -9,9 +9,9 @@
         "card_name": "e"
     },
     {
-        "card_name": "Test Creature",
+        "card_name": "Test Battle",
         "number": 1,
-        "shape": "normal",
+        "shape": "double faced split",
         "set": "TWE"
     },
     {
