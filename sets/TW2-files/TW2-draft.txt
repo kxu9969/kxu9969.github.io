@@ -20,8 +20,10 @@
 	]
 
 [rare(1)]
-[uncommon(4)]
+[uncommon(3)]
 [common(7)]
 	8 Test
-[wildcard(2)]
+[foil(1)]
+	12 Test
+[wildcard(1)]
 	6 Test

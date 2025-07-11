@@ -1,12 +1,13 @@
 ﻿[CustomCards]
-	[	{
+	[
+		{
 			"name": "First Admiral of the Bellows",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Dwarf Pirate",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/15_First Admiral of the Bellows.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/15_First Admiral of the Bellows.png"
 			}
 		},
 		{
@@ -16,7 +17,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/6_Betsy Mae Moss, Legionette.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/6_Betsy Mae Moss, Legionette.png"
 			}
 		},
 		{
@@ -26,7 +27,7 @@
 			"type": "Legendary Creature — Mouse Warrior",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/43_Panya, Minikin Hero.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/43_Panya, Minikin Hero.png"
 			}
 		},
 		{
@@ -36,7 +37,7 @@
 			"type": "Legendary Planeswalker — Rami",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/47_Rami Nyi, the Tsunami.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/47_Rami Nyi, the Tsunami.png"
 			}
 		},
 		{
@@ -46,7 +47,7 @@
 			"type": "Creature — Merfolk Horror",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/76_The Deep Ones.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/76_The Deep Ones.png"
 			}
 		},
 		{
@@ -56,7 +57,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/73_Curse of the Dusk Fleet.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/73_Curse of the Dusk Fleet.png"
 			}
 		},
 		{
@@ -66,7 +67,7 @@
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/101_Giradrus, the Cataclysm.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/101_Giradrus, the Cataclysm.png"
 			}
 		},
 		{
@@ -76,7 +77,7 @@
 			"type": "Legendary Creature — Shark Beast",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/92_The Butcher of Bandura.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/92_The Butcher of Bandura.png"
 			}
 		},
 		{
@@ -89,11 +90,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/119_Battle for Alas-Wana_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/119_Battle for Alas-Wana_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/119_Battle for Alas-Wana_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/119_Battle for Alas-Wana_front.png"
 			}
 		},
 		{
@@ -103,7 +104,7 @@
 			"type": "Legendary Creature — Fish Drake",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/145_The Wakiwaki.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/145_The Wakiwaki.png"
 			}
 		},
 		{
@@ -113,7 +114,7 @@
 			"type": "Kindred Instant — Kraken Revelation",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/200_A World Through the Wake.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/200_A World Through the Wake.png"
 			}
 		},
 		{
@@ -123,7 +124,7 @@
 			"type": "Legendary Creature — Dragon Treefolk",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/179_Jara, Glade Sovereign.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/179_Jara, Glade Sovereign.png"
 			}
 		},
 		{
@@ -133,7 +134,7 @@
 			"type": "Legendary Planeswalker — Ghariv",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/1_Deacon Bay Docks.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/1_Deacon Bay Docks.png"
 			}
 		},
 		{
@@ -143,7 +144,7 @@
 			"type": "Legendary Planeswalker — Jorah",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/180_Jorah, Eternal and Insatiable.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/180_Jorah, Eternal and Insatiable.png"
 			}
 		},
 		{
@@ -153,7 +154,7 @@
 			"type": "Legendary Planeswalker — Crain",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/158_Captain Crain.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/158_Captain Crain.png"
 			}
 		},
 		{
@@ -163,7 +164,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/29_Tomas, Beau of the Brine.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/29_Tomas, Beau of the Brine.png"
 			}
 		},
 		{
@@ -173,7 +174,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/30_Wayward Crew.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/30_Wayward Crew.png"
 			}
 		},
 		{
@@ -183,7 +184,7 @@
 			"type": "Creature — Griffin",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/10_Dawn Patrol.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/10_Dawn Patrol.png"
 			}
 		},
 		{
@@ -193,7 +194,7 @@
 			"type": "Legendary Creature — Dwarf Artificer",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/27_Stonesmith Thadd.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/27_Stonesmith Thadd.png"
 			}
 		},
 		{
@@ -203,7 +204,7 @@
 			"type": "Enchantment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/4_Ataxia.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/4_Ataxia.png"
 			}
 		},
 		{
@@ -213,7 +214,7 @@
 			"type": "Sorcery",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/3_Arrival of the Sun Fleet.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/3_Arrival of the Sun Fleet.png"
 			}
 		},
 		{
@@ -226,11 +227,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/5_Battle for Castle Cay_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/5_Battle for Castle Cay_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/5_Battle for Castle Cay_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/5_Battle for Castle Cay_front.png"
 			}
 		},
 		{
@@ -240,7 +241,7 @@
 			"type": "Creature — Spirit Pirate",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/187_Riftwind Navigator.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/187_Riftwind Navigator.png"
 			}
 		},
 		{
@@ -250,7 +251,7 @@
 			"type": "Enchantment",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/195_Stormshroud.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/195_Stormshroud.png"
 			}
 		},
 		{
@@ -260,7 +261,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/31_Aurelian Drake.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/31_Aurelian Drake.png"
 			}
 		},
 		{
@@ -270,7 +271,7 @@
 			"type": "Creature — Zombie Pirate",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/36_Dreadlich Captain.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/36_Dreadlich Captain.png"
 			}
 		},
 		{
@@ -280,7 +281,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/34_Cloudbreacher.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/34_Cloudbreacher.png"
 			}
 		},
 		{
@@ -290,7 +291,7 @@
 			"type": "Sorcery",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/45_The Price of Prosperity.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/45_The Price of Prosperity.png"
 			}
 		},
 		{
@@ -300,7 +301,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/37_Drown in Ken of Shore.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/37_Drown in Ken of Shore.png"
 			}
 		},
 		{
@@ -310,7 +311,7 @@
 			"type": "Sorcery",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/53_The Silversea Swirls.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/53_The Silversea Swirls.png"
 			}
 		},
 		{
@@ -323,11 +324,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/32_Battle for the Mistwinds_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/32_Battle for the Mistwinds_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/32_Battle for the Mistwinds_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/32_Battle for the Mistwinds_front.png"
 			}
 		},
 		{
@@ -337,7 +338,7 @@
 			"type": "Sorcery",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/182_Last Voyage of the Selkie.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/182_Last Voyage of the Selkie.png"
 			}
 		},
 		{
@@ -347,7 +348,7 @@
 			"type": "Enchantment",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/186_Razortooth Roost.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/186_Razortooth Roost.png"
 			}
 		},
 		{
@@ -357,7 +358,7 @@
 			"type": "Legendary Creature — Zombie Horror",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/82_Mayit, the Forgotten One.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/82_Mayit, the Forgotten One.png"
 			}
 		},
 		{
@@ -367,7 +368,7 @@
 			"type": "Creature — Merfolk Warlock",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/65_Blacksea Hag.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/65_Blacksea Hag.png"
 			}
 		},
 		{
@@ -377,7 +378,7 @@
 			"type": "Creature — Skeleton Pirate",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/79_Grog Snoggers.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/79_Grog Snoggers.png"
 			}
 		},
 		{
@@ -387,7 +388,7 @@
 			"type": "Sorcery",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/60_Abyssal Corruption.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/60_Abyssal Corruption.png"
 			}
 		},
 		{
@@ -397,7 +398,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/74_Curse of the Mother.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/74_Curse of the Mother.png"
 			}
 		},
 		{
@@ -407,7 +408,7 @@
 			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/61_Ascent of the Wakeborn.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/61_Ascent of the Wakeborn.png"
 			}
 		},
 		{
@@ -420,11 +421,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/63_Battle for the Dead Strait_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/63_Battle for the Dead Strait_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/63_Battle for the Dead Strait_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/63_Battle for the Dead Strait_front.png"
 			}
 		},
 		{
@@ -434,7 +435,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/169_Curse of Skull Pass.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/169_Curse of Skull Pass.png"
 			}
 		},
 		{
@@ -444,7 +445,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/177_Groveheart Tender.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/177_Groveheart Tender.png"
 			}
 		},
 		{
@@ -454,7 +455,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/103_Hamlet Shrieker.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/103_Hamlet Shrieker.png"
 			}
 		},
 		{
@@ -464,7 +465,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/110_Pathfinder Dragon.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/110_Pathfinder Dragon.png"
 			}
 		},
 		{
@@ -474,7 +475,7 @@
 			"type": "Legendary Creature — Merfolk Pirate",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/115_The Silversea Company.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/115_The Silversea Company.png"
 			}
 		},
 		{
@@ -484,7 +485,7 @@
 			"type": "Sorcery",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/113_Self-Guided Ballistics.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/113_Self-Guided Ballistics.png"
 			}
 		},
 		{
@@ -494,7 +495,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/97_Curse of the Firebrand.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/97_Curse of the Firebrand.png"
 			}
 		},
 		{
@@ -504,7 +505,7 @@
 			"type": "Sorcery",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/100_Formation of Merida.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/100_Formation of Merida.png"
 			}
 		},
 		{
@@ -517,11 +518,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/91_Battle for the Apex_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/91_Battle for the Apex_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/91_Battle for the Apex_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/91_Battle for the Apex_front.png"
 			}
 		},
 		{
@@ -531,7 +532,7 @@
 			"type": "Creature — Merfolk Scout",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/168_Current Pacer.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/168_Current Pacer.png"
 			}
 		},
 		{
@@ -541,7 +542,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/175_Gareth Redplume IV.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/175_Gareth Redplume IV.png"
 			}
 		},
 		{
@@ -551,7 +552,7 @@
 			"type": "Creature — Human Merfolk Pirate",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/126_Fathoms Spearhunter.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/126_Fathoms Spearhunter.png"
 			}
 		},
 		{
@@ -561,7 +562,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/136_Pelagic Conduit.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/136_Pelagic Conduit.png"
 			}
 		},
 		{
@@ -571,7 +572,7 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/122_Call of L'Or.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/122_Call of L'Or.png"
 			}
 		},
 		{
@@ -581,7 +582,7 @@
 			"type": "Legendary Creature — Octopus",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/134_Merveille Pieuvre.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/134_Merveille Pieuvre.png"
 			}
 		},
 		{
@@ -591,7 +592,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/140_Something Stirs Within.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/140_Something Stirs Within.png"
 			}
 		},
 		{
@@ -601,7 +602,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/131_Growth of Arbre-Mere.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/131_Growth of Arbre-Mere.png"
 			}
 		},
 		{
@@ -614,11 +615,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/120_Battle for Prospera Depths_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/120_Battle for Prospera Depths_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/120_Battle for Prospera Depths_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/120_Battle for Prospera Depths_front.png"
 			}
 		},
 		{
@@ -628,7 +629,7 @@
 			"type": "Legendary Creature — Dragon Turtle",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/166_Coquille, the Rising Isle.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/166_Coquille, the Rising Isle.png"
 			}
 		},
 		{
@@ -638,7 +639,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/199_Witness Forces Unknown.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/199_Witness Forces Unknown.png"
 			}
 		},
 		{
@@ -648,7 +649,7 @@
 			"type": "Artifact",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/207_Sentinels of Canica Strait.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/207_Sentinels of Canica Strait.png"
 			}
 		},
 		{
@@ -658,7 +659,7 @@
 			"type": "Artifact",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/204_Fishing Docks.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/204_Fishing Docks.png"
 			}
 		},
 		{
@@ -668,7 +669,7 @@
 			"type": "Land",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/220_Voyager's Passage.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/220_Voyager's Passage.png"
 			}
 		},
 		{
@@ -678,7 +679,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/11_Detention Officer.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/11_Detention Officer.png"
 			}
 		},
 		{
@@ -688,7 +689,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/9_Courier of the Winds.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/9_Courier of the Winds.png"
 			}
 		},
 		{
@@ -698,7 +699,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/16_Jacktar-for-Hire.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/16_Jacktar-for-Hire.png"
 			}
 		},
 		{
@@ -708,7 +709,7 @@
 			"type": "Creature — Merfolk Pirate",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/17_Lady of the Threshers.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/17_Lady of the Threshers.png"
 			}
 		},
 		{
@@ -718,7 +719,7 @@
 			"type": "Instant",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/20_A Pirate's Life.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/20_A Pirate's Life.png"
 			}
 		},
 		{
@@ -728,7 +729,7 @@
 			"type": "Enchantment",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/2_Another Man's Treasure.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/2_Another Man's Treasure.png"
 			}
 		},
 		{
@@ -738,7 +739,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/59_Windwise Drake.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/59_Windwise Drake.png"
 			}
 		},
 		{
@@ -748,7 +749,7 @@
 			"type": "Creature — Zombie Pirate",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/35_Crain's Creation.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/35_Crain's Creation.png"
 			}
 		},
 		{
@@ -758,7 +759,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/56_Watchful Ashwing.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/56_Watchful Ashwing.png"
 			}
 		},
 		{
@@ -768,7 +769,7 @@
 			"type": "Instant",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/57_Waveshaping.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/57_Waveshaping.png"
 			}
 		},
 		{
@@ -778,7 +779,7 @@
 			"type": "Creature — Zombie Spirit Pirate",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/44_Phantasmal Marauder.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/44_Phantasmal Marauder.png"
 			}
 		},
 		{
@@ -788,7 +789,7 @@
 			"type": "Kindred Instant — Kraken Revelation",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/33_The Briny Depths Await.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/33_The Briny Depths Await.png"
 			}
 		},
 		{
@@ -798,7 +799,7 @@
 			"type": "Creature — Zombie Pirate",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/64_Black Arts Admiral.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/64_Black Arts Admiral.png"
 			}
 		},
 		{
@@ -808,7 +809,7 @@
 			"type": "Creature — Zombie Treefolk",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/85_Roots of All Evil.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/85_Roots of All Evil.png"
 			}
 		},
 		{
@@ -818,7 +819,7 @@
 			"type": "Creature — Zombie Pirate",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/77_Faceless Faction.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/77_Faceless Faction.png"
 			}
 		},
 		{
@@ -828,7 +829,7 @@
 			"type": "Sorcery",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/62_Barter in Blood.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/62_Barter in Blood.png"
 			}
 		},
 		{
@@ -838,7 +839,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/81_Light Fades to Despair.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/81_Light Fades to Despair.png"
 			}
 		},
 		{
@@ -848,7 +849,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/72_Curse of the Blacksea.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/72_Curse of the Blacksea.png"
 			}
 		},
 		{
@@ -858,7 +859,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/112_Sabre-Happy Swashbuckler.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/112_Sabre-Happy Swashbuckler.png"
 			}
 		},
 		{
@@ -868,7 +869,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/102_Glyph Wyvern.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/102_Glyph Wyvern.png"
 			}
 		},
 		{
@@ -878,7 +879,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/109_Painted Dragon.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/109_Painted Dragon.png"
 			}
 		},
 		{
@@ -888,7 +889,7 @@
 			"type": "Instant",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/106_Keelhaul.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/106_Keelhaul.png"
 			}
 		},
 		{
@@ -898,7 +899,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/95_Curse of Marked Charts.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/95_Curse of Marked Charts.png"
 			}
 		},
 		{
@@ -908,7 +909,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/90_Basalt Spray.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/90_Basalt Spray.png"
 			}
 		},
 		{
@@ -918,7 +919,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/141_Soul of the Grove.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/141_Soul of the Grove.png"
 			}
 		},
 		{
@@ -928,7 +929,7 @@
 			"type": "Creature — Merfolk Pirate",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/137_Polyp Architect.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/137_Polyp Architect.png"
 			}
 		},
 		{
@@ -938,7 +939,7 @@
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/123_Chart the Lost Lands.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/123_Chart the Lost Lands.png"
 			}
 		},
 		{
@@ -948,7 +949,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/139_The Roil Stakes Its Claim.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/139_The Roil Stakes Its Claim.png"
 			}
 		},
 		{
@@ -958,7 +959,7 @@
 			"type": "Enchantment",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/129_Greensea Amity.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/129_Greensea Amity.png"
 			}
 		},
 		{
@@ -968,7 +969,7 @@
 			"type": "Sorcery",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/146_Withstand the Torrent.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/146_Withstand the Torrent.png"
 			}
 		},
 		{
@@ -978,7 +979,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/160_Captain Holly Dee.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/160_Captain Holly Dee.png"
 			}
 		},
 		{
@@ -988,7 +989,7 @@
 			"type": "Creature — Dwarf Artificer",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/188_Runic Visionary.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/188_Runic Visionary.png"
 			}
 		},
 		{
@@ -1001,11 +1002,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/157_Battle for Verity Bay_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/157_Battle for Verity Bay_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/157_Battle for Verity Bay_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/157_Battle for Verity Bay_front.png"
 			}
 		},
 		{
@@ -1015,7 +1016,7 @@
 			"type": "Legendary Creature — Zombie Pirate",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/159_Captain Darwin Smythe.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/159_Captain Darwin Smythe.png"
 			}
 		},
 		{
@@ -1025,7 +1026,7 @@
 			"type": "Sorcery",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/197_Touch of the Omen.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/197_Touch of the Omen.png"
 			}
 		},
 		{
@@ -1038,11 +1039,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/152_Battle for Ivos Isle_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/152_Battle for Ivos Isle_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/152_Battle for Ivos Isle_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/152_Battle for Ivos Isle_front.png"
 			}
 		},
 		{
@@ -1052,7 +1053,7 @@
 			"type": "Legendary Creature — Zombie Pirate",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/165_Commodore Egan Bristol.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/165_Commodore Egan Bristol.png"
 			}
 		},
 		{
@@ -1062,7 +1063,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/170_Curse of the Hunted.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/170_Curse of the Hunted.png"
 			}
 		},
 		{
@@ -1075,11 +1076,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/148_Battle for Blacksea_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/148_Battle for Blacksea_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/148_Battle for Blacksea_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/148_Battle for Blacksea_front.png"
 			}
 		},
 		{
@@ -1089,7 +1090,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/162_Captain Rosie Wright.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/162_Captain Rosie Wright.png"
 			}
 		},
 		{
@@ -1099,7 +1100,7 @@
 			"type": "Creature — Drake Leviathan",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/196_Sunscale Drake.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/196_Sunscale Drake.png"
 			}
 		},
 		{
@@ -1112,11 +1113,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/151_Battle for Highspire_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/151_Battle for Highspire_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/151_Battle for Highspire_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/151_Battle for Highspire_front.png"
 			}
 		},
 		{
@@ -1126,7 +1127,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/171_The Dieu-de-Fer Twins.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/171_The Dieu-de-Fer Twins.png"
 			}
 		},
 		{
@@ -1136,7 +1137,7 @@
 			"type": "Enchantment",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/173_Familiar's Guile.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/173_Familiar's Guile.png"
 			}
 		},
 		{
@@ -1149,11 +1150,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/150_Battle for Fort Alderosa_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/150_Battle for Fort Alderosa_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/150_Battle for Fort Alderosa_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/150_Battle for Fort Alderosa_front.png"
 			}
 		},
 		{
@@ -1163,7 +1164,7 @@
 			"type": "Legendary Creature — Merfolk Pirate",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/183_Olavan of the Silversea.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/183_Olavan of the Silversea.png"
 			}
 		},
 		{
@@ -1173,7 +1174,7 @@
 			"type": "Creature — Zombie Spirit Pirate",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/193_Spectral Scalawag.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/193_Spectral Scalawag.png"
 			}
 		},
 		{
@@ -1186,11 +1187,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/156_Battle for the Stillshroud_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/156_Battle for the Stillshroud_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/156_Battle for the Stillshroud_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/156_Battle for the Stillshroud_front.png"
 			}
 		},
 		{
@@ -1200,7 +1201,7 @@
 			"type": "Legendary Creature — Merfolk Pirate",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/189_Runix of the Blacksea.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/189_Runix of the Blacksea.png"
 			}
 		},
 		{
@@ -1210,7 +1211,7 @@
 			"type": "Creature — Treefolk Crocodile",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/164_Colossal Mossjaw.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/164_Colossal Mossjaw.png"
 			}
 		},
 		{
@@ -1223,11 +1224,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/153_Battle for Merida Keys_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/153_Battle for Merida Keys_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/153_Battle for Merida Keys_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/153_Battle for Merida Keys_front.png"
 			}
 		},
 		{
@@ -1237,7 +1238,7 @@
 			"type": "Legendary Creature — Merfolk Pirate",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/181_Lanne of the Greensea.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/181_Lanne of the Greensea.png"
 			}
 		},
 		{
@@ -1247,7 +1248,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/176_Glimpse Worlds Within Worlds.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/176_Glimpse Worlds Within Worlds.png"
 			}
 		},
 		{
@@ -1260,11 +1261,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/155_Battle for Tempest Reach_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/155_Battle for Tempest Reach_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/155_Battle for Tempest Reach_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/155_Battle for Tempest Reach_front.png"
 			}
 		},
 		{
@@ -1274,7 +1275,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/161_Captain Polly Carver.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/161_Captain Polly Carver.png"
 			}
 		},
 		{
@@ -1284,7 +1285,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/191_Shrieking Seakite.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/191_Shrieking Seakite.png"
 			}
 		},
 		{
@@ -1297,11 +1298,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/149_Battle for Charred Atoll_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/149_Battle for Charred Atoll_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/149_Battle for Charred Atoll_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/149_Battle for Charred Atoll_front.png"
 			}
 		},
 		{
@@ -1311,7 +1312,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/147_Admiral Everett Cross.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/147_Admiral Everett Cross.png"
 			}
 		},
 		{
@@ -1321,7 +1322,7 @@
 			"type": "Creature — Dwarf Pirate",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/174_Forecastle Bosun.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/174_Forecastle Bosun.png"
 			}
 		},
 		{
@@ -1334,11 +1335,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://magictheegg.github.io/sets/GSS-files/img/154_Battle for Port Plenty_back.png"
+					"en": "https://kxu9969.github.io/sets/GSS-files/img/154_Battle for Port Plenty_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/154_Battle for Port Plenty_front.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/154_Battle for Port Plenty_front.png"
 			}
 		},
 		{
@@ -1348,7 +1349,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/203_Everfelle Gates.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/203_Everfelle Gates.png"
 			}
 		},
 		{
@@ -1358,7 +1359,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/208_Thunderball Mortars.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/208_Thunderball Mortars.png"
 			}
 		},
 		{
@@ -1368,7 +1369,7 @@
 			"type": "Land",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/218_Treasure Cove.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/218_Treasure Cove.png"
 			}
 		},
 		{
@@ -1378,7 +1379,7 @@
 			"type": "Creature — Dwarf Advisor",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/26_Seacraft Registrar.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/26_Seacraft Registrar.png"
 			}
 		},
 		{
@@ -1388,7 +1389,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/12_Dockside Sleuth.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/12_Dockside Sleuth.png"
 			}
 		},
 		{
@@ -1398,7 +1399,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/13_Dutiful Innkeeper.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/13_Dutiful Innkeeper.png"
 			}
 		},
 		{
@@ -1408,7 +1409,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/7_Bluecoat Adept.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/7_Bluecoat Adept.png"
 			}
 		},
 		{
@@ -1418,7 +1419,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/21_Plucky Crewmate.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/21_Plucky Crewmate.png"
 			}
 		},
 		{
@@ -1428,7 +1429,7 @@
 			"type": "Creature — Fish Horse",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/14_Faithful Seasteed.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/14_Faithful Seasteed.png"
 			}
 		},
 		{
@@ -1438,7 +1439,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/19_Parrot Peddler.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/19_Parrot Peddler.png"
 			}
 		},
 		{
@@ -1448,7 +1449,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/23_Rainbow Tern.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/23_Rainbow Tern.png"
 			}
 		},
 		{
@@ -1458,7 +1459,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/22_Port Rose Lieutenant.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/22_Port Rose Lieutenant.png"
 			}
 		},
 		{
@@ -1468,7 +1469,7 @@
 			"type": "Creature — Merfolk Warrior",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/8_Chitinous Commander.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/8_Chitinous Commander.png"
 			}
 		},
 		{
@@ -1478,7 +1479,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/18_Mercantile Negotiations.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/18_Mercantile Negotiations.png"
 			}
 		},
 		{
@@ -1488,7 +1489,7 @@
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/28_Surging Current.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/28_Surging Current.png"
 			}
 		},
 		{
@@ -1498,7 +1499,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/24_Revoke Privileges.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/24_Revoke Privileges.png"
 			}
 		},
 		{
@@ -1508,7 +1509,7 @@
 			"type": "Instant",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/25_Sailor's Sendoff.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/25_Sailor's Sendoff.png"
 			}
 		},
 		{
@@ -1518,7 +1519,7 @@
 			"type": "Creature — Zombie Pirate",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/46_Ragged Rapscallion.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/46_Ragged Rapscallion.png"
 			}
 		},
 		{
@@ -1528,7 +1529,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/48_Recon Drake.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/48_Recon Drake.png"
 			}
 		},
 		{
@@ -1538,7 +1539,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/52_Sigiled Spotter.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/52_Sigiled Spotter.png"
 			}
 		},
 		{
@@ -1548,7 +1549,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/39_Gilded Lapwing.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/39_Gilded Lapwing.png"
 			}
 		},
 		{
@@ -1558,7 +1559,7 @@
 			"type": "Creature — Zombie Merfolk",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/40_Harbor Trawler.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/40_Harbor Trawler.png"
 			}
 		},
 		{
@@ -1568,7 +1569,7 @@
 			"type": "Creature — Zombie Drake",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/50_Ruin Cove Scavenger.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/50_Ruin Cove Scavenger.png"
 			}
 		},
 		{
@@ -1578,7 +1579,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/51_Secrets Shimmer Like Silver.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/51_Secrets Shimmer Like Silver.png"
 			}
 		},
 		{
@@ -1588,7 +1589,7 @@
 			"type": "Instant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/38_Fang Fleet Mandate.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/38_Fang Fleet Mandate.png"
 			}
 		},
 		{
@@ -1598,7 +1599,7 @@
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/41_Necrotic Shawl.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/41_Necrotic Shawl.png"
 			}
 		},
 		{
@@ -1608,7 +1609,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/58_Whale of a Tale.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/58_Whale of a Tale.png"
 			}
 		},
 		{
@@ -1618,7 +1619,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/42_One With the Great Beyond.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/42_One With the Great Beyond.png"
 			}
 		},
 		{
@@ -1628,7 +1629,7 @@
 			"type": "Sorcery",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/49_Rise of the Blacksea Moon.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/49_Rise of the Blacksea Moon.png"
 			}
 		},
 		{
@@ -1638,7 +1639,7 @@
 			"type": "Sorcery",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/55_Throw Overboard.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/55_Throw Overboard.png"
 			}
 		},
 		{
@@ -1648,7 +1649,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/54_Structural Damage.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/54_Structural Damage.png"
 			}
 		},
 		{
@@ -1658,7 +1659,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/84_Relentless Remains.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/84_Relentless Remains.png"
 			}
 		},
 		{
@@ -1668,7 +1669,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/69_Crain's Accursed.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/69_Crain's Accursed.png"
 			}
 		},
 		{
@@ -1678,7 +1679,7 @@
 			"type": "Creature — Merfolk Warlock",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/66_Blacksea Thaumaturge.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/66_Blacksea Thaumaturge.png"
 			}
 		},
 		{
@@ -1688,7 +1689,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/67_Blighted Arbor.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/67_Blighted Arbor.png"
 			}
 		},
 		{
@@ -1698,7 +1699,7 @@
 			"type": "Creature — Zombie Treefolk",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/87_Uprooted Stalker.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/87_Uprooted Stalker.png"
 			}
 		},
 		{
@@ -1708,7 +1709,7 @@
 			"type": "Creature — Zombie Pirate",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/75_Damned Helmsman.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/75_Damned Helmsman.png"
 			}
 		},
 		{
@@ -1718,7 +1719,7 @@
 			"type": "Creature — Zombie Griffin",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/78_Galleon Ravager.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/78_Galleon Ravager.png"
 			}
 		},
 		{
@@ -1728,7 +1729,7 @@
 			"type": "Creature — Zombie Horror",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/88_Writhing Abomination.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/88_Writhing Abomination.png"
 			}
 		},
 		{
@@ -1738,7 +1739,7 @@
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/80_Islander's Bounty.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/80_Islander's Bounty.png"
 			}
 		},
 		{
@@ -1748,7 +1749,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/83_Moment of Craving.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/83_Moment of Craving.png"
 			}
 		},
 		{
@@ -1758,7 +1759,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/86_A Soul Breaks Like a Wave.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/86_A Soul Breaks Like a Wave.png"
 			}
 		},
 		{
@@ -1768,7 +1769,7 @@
 			"type": "Instant",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/68_Churn to Chum.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/68_Churn to Chum.png"
 			}
 		},
 		{
@@ -1778,7 +1779,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/70_Curse of Admonishment.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/70_Curse of Admonishment.png"
 			}
 		},
 		{
@@ -1788,7 +1789,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/71_Curse of Fetid Remains.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/71_Curse of Fetid Remains.png"
 			}
 		},
 		{
@@ -1798,7 +1799,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/107_Mottled Snapwing.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/107_Mottled Snapwing.png"
 			}
 		},
 		{
@@ -1808,7 +1809,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/105_Herald of the Brood.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/105_Herald of the Brood.png"
 			}
 		},
 		{
@@ -1818,7 +1819,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/117_Wayward Mariner.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/117_Wayward Mariner.png"
 			}
 		},
 		{
@@ -1828,7 +1829,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/104_Hellkite Whelp.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/104_Hellkite Whelp.png"
 			}
 		},
 		{
@@ -1838,7 +1839,7 @@
 			"type": "Creature — Merfolk Warrior",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/114_Shallows Spear-Fisher.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/114_Shallows Spear-Fisher.png"
 			}
 		},
 		{
@@ -1848,7 +1849,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/93_Combustion Girl.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/93_Combustion Girl.png"
 			}
 		},
 		{
@@ -1858,7 +1859,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/89_Anchor Hauler.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/89_Anchor Hauler.png"
 			}
 		},
 		{
@@ -1868,7 +1869,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/94_Crag Monarch.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/94_Crag Monarch.png"
 			}
 		},
 		{
@@ -1878,7 +1879,7 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/111_Poisson Slums Dealings.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/111_Poisson Slums Dealings.png"
 			}
 		},
 		{
@@ -1888,7 +1889,7 @@
 			"type": "Sorcery",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/99_Erode.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/99_Erode.png"
 			}
 		},
 		{
@@ -1898,7 +1899,7 @@
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/108_Open Fire.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/108_Open Fire.png"
 			}
 		},
 		{
@@ -1908,7 +1909,7 @@
 			"type": "Instant",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/116_Warning from Giradrus.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/116_Warning from Giradrus.png"
 			}
 		},
 		{
@@ -1918,7 +1919,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/96_Curse of the Dragon's Coin.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/96_Curse of the Dragon's Coin.png"
 			}
 		},
 		{
@@ -1928,7 +1929,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/98_Curse of the Sea's Bounty.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/98_Curse of the Sea's Bounty.png"
 			}
 		},
 		{
@@ -1938,7 +1939,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/132_Invasive Kelp.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/132_Invasive Kelp.png"
 			}
 		},
 		{
@@ -1948,7 +1949,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/125_Curator of Cryptic Charts.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/125_Curator of Cryptic Charts.png"
 			}
 		},
 		{
@@ -1958,7 +1959,7 @@
 			"type": "Creature — Fish Serpent",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/133_Lake Cave Lurker.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/133_Lake Cave Lurker.png"
 			}
 		},
 		{
@@ -1968,7 +1969,7 @@
 			"type": "Creature — Dwarf Advisor",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/128_Frigate Architect.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/128_Frigate Architect.png"
 			}
 		},
 		{
@@ -1978,7 +1979,7 @@
 			"type": "Creature — Merfolk Pirate",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/130_Greensea Brute.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/130_Greensea Brute.png"
 			}
 		},
 		{
@@ -1988,7 +1989,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/124_Copse Creeper.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/124_Copse Creeper.png"
 			}
 		},
 		{
@@ -1998,7 +1999,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/118_Ardent Cartographer.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/118_Ardent Cartographer.png"
 			}
 		},
 		{
@@ -2008,7 +2009,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/142_Trench Leviathan.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/142_Trench Leviathan.png"
 			}
 		},
 		{
@@ -2018,7 +2019,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/121_Breaching Serpent.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/121_Breaching Serpent.png"
 			}
 		},
 		{
@@ -2028,7 +2029,7 @@
 			"type": "Creature — Whale",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/127_Floating Ecocosm.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/127_Floating Ecocosm.png"
 			}
 		},
 		{
@@ -2038,7 +2039,7 @@
 			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/144_Vantage Shot.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/144_Vantage Shot.png"
 			}
 		},
 		{
@@ -2048,7 +2049,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/135_The Mortal Plays God.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/135_The Mortal Plays God.png"
 			}
 		},
 		{
@@ -2058,7 +2059,7 @@
 			"type": "Kindred Sorcery — Kraken Revelation",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/143_The Unknown Welcomes All.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/143_The Unknown Welcomes All.png"
 			}
 		},
 		{
@@ -2068,7 +2069,7 @@
 			"type": "Instant",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/138_Ram.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/138_Ram.png"
 			}
 		},
 		{
@@ -2078,7 +2079,7 @@
 			"type": "Creature — Dwarf Artificer",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/172_Dwarven Gemsmith.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/172_Dwarven Gemsmith.png"
 			}
 		},
 		{
@@ -2088,7 +2089,7 @@
 			"type": "Creature — Zombie Serpent",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/185_Putrefied Thrasher.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/185_Putrefied Thrasher.png"
 			}
 		},
 		{
@@ -2098,7 +2099,7 @@
 			"type": "Creature — Zombie Pirate",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/167_Crain's Devoted.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/167_Crain's Devoted.png"
 			}
 		},
 		{
@@ -2108,7 +2109,7 @@
 			"type": "Creature — Elk",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/194_Stag of Plenty.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/194_Stag of Plenty.png"
 			}
 		},
 		{
@@ -2118,7 +2119,7 @@
 			"type": "Creature — Human Pirate",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/190_Sanctions Enforcer.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/190_Sanctions Enforcer.png"
 			}
 		},
 		{
@@ -2128,7 +2129,7 @@
 			"type": "Creature — Shark Merfolk Pirate",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/163_Coastal Raider.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/163_Coastal Raider.png"
 			}
 		},
 		{
@@ -2138,7 +2139,7 @@
 			"type": "Creature — Zombie Treefolk",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/198_Withering Wanderers.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/198_Withering Wanderers.png"
 			}
 		},
 		{
@@ -2148,7 +2149,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/192_Silversea Titan.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/192_Silversea Titan.png"
 			}
 		},
 		{
@@ -2158,7 +2159,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/184_Precipice Surveyor.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/184_Precipice Surveyor.png"
 			}
 		},
 		{
@@ -2168,7 +2169,7 @@
 			"type": "Sorcery",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/178_Inspiring Recruitment.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/178_Inspiring Recruitment.png"
 			}
 		},
 		{
@@ -2178,7 +2179,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/201_Citadel Tower.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/201_Citadel Tower.png"
 			}
 		},
 		{
@@ -2188,7 +2189,7 @@
 			"type": "Land",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/219_Uncharted Haven.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/219_Uncharted Haven.png"
 			}
 		},
 		{
@@ -2198,7 +2199,7 @@
 			"type": "Artifact",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/202_Convincing Bait.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/202_Convincing Bait.png"
 			}
 		},
 		{
@@ -2208,7 +2209,7 @@
 			"type": "Artifact",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/205_Prophetic Prism.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/205_Prophetic Prism.png"
 			}
 		},
 		{
@@ -2218,7 +2219,7 @@
 			"type": "Artifact",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/206_Seer's Lantern.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/206_Seer's Lantern.png"
 			}
 		},
 		{
@@ -2228,7 +2229,7 @@
 			"type": "Land — Plains Island",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/212_Idyllic Beachfront.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/212_Idyllic Beachfront.png"
 			}
 		},
 		{
@@ -2238,7 +2239,7 @@
 			"type": "Land — Island Swamp",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/209_Contaminated Aquifer.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/209_Contaminated Aquifer.png"
 			}
 		},
 		{
@@ -2248,7 +2249,7 @@
 			"type": "Land — Swamp Mountain",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/210_Geothermal Bog.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/210_Geothermal Bog.png"
 			}
 		},
 		{
@@ -2258,7 +2259,7 @@
 			"type": "Land — Mountain Forest",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/221_Wooded Ridgeline.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/221_Wooded Ridgeline.png"
 			}
 		},
 		{
@@ -2268,7 +2269,7 @@
 			"type": "Land — Forest Plains",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/214_Radiant Grove.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/214_Radiant Grove.png"
 			}
 		},
 		{
@@ -2278,7 +2279,7 @@
 			"type": "Land — Plains Swamp",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/216_Sunlit Marsh.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/216_Sunlit Marsh.png"
 			}
 		},
 		{
@@ -2288,7 +2289,7 @@
 			"type": "Land — Swamp Forest",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/211_Haunted Mire.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/211_Haunted Mire.png"
 			}
 		},
 		{
@@ -2298,7 +2299,7 @@
 			"type": "Land — Forest Island",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/217_Tangled Islet.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/217_Tangled Islet.png"
 			}
 		},
 		{
@@ -2308,7 +2309,7 @@
 			"type": "Land — Island Mountain",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/213_Molten Tributary.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/213_Molten Tributary.png"
 			}
 		},
 		{
@@ -2318,674 +2319,676 @@
 			"type": "Land — Mountain Plains",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSS-files/img/215_Sacred Peaks.png"
-			}
-		},
-		{
-			"name": "Bygone Mariner",
-			"rarity": "mythic",
-			"mana_cost": "{3}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/5_Bygone Mariner.png"
-			}
-		},
-		{
-			"name": "Imperial Butterfly",
-			"rarity": "mythic",
-			"mana_cost": "{2}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/12_Imperial Butterfly.png"
-			}
-		},
-		{
-			"name": "H.S.S. Dreadnought",
-			"rarity": "mythic",
-			"mana_cost": "{5}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/11_H.S.S. Dreadnought.png"
-			}
-		},
-		{
-			"name": "Draco Ligneus",
-			"rarity": "mythic",
-			"mana_cost": "{5}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/8_Draco Ligneus.png"
-			}
-		},
-		{
-			"name": "The Fell Reaper",
-			"rarity": "mythic",
-			"mana_cost": "{7}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/27_The Fell Reaper.png"
-			}
-		},
-		{
-			"name": "The Moon and the Moors",
-			"rarity": "rare",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/33_The Moon and the Moors.png"
-			}
-		},
-		{
-			"name": "The Bones and the Brine",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/25_The Bones and the Brine.png"
-			}
-		},
-		{
-			"name": "The Spite and the Scorn",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/35_The Spite and the Scorn.png"
-			}
-		},
-		{
-			"name": "The Storm and the Cedar",
-			"rarity": "rare",
-			"mana_cost": "{5}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/36_The Storm and the Cedar.png"
-			}
-		},
-		{
-			"name": "The Heart and the Soul",
-			"rarity": "rare",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/30_The Heart and the Soul.png"
-			}
-		},
-		{
-			"name": "The Mirth and the Misery",
-			"rarity": "rare",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/32_The Mirth and the Misery.png"
-			}
-		},
-		{
-			"name": "The Flesh and the Fate",
-			"rarity": "rare",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/28_The Flesh and the Fate.png"
-			}
-		},
-		{
-			"name": "The Earth and the Sea",
-			"rarity": "rare",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/26_The Earth and the Sea.png"
-			}
-		},
-		{
-			"name": "The Blood and the Claw",
-			"rarity": "rare",
-			"mana_cost": "{1}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/24_The Blood and the Claw.png"
-			}
-		},
-		{
-			"name": "The Sun and the Spirit",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/37_The Sun and the Spirit.png"
-			}
-		},
-		{
-			"name": "Brine Fleet Bay",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Artifact Land — Vehicle",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/4_Brine Fleet Bay.png"
-			}
-		},
-		{
-			"name": "The Great Maw",
-			"rarity": "rare",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/29_The Great Maw.png"
-			}
-		},
-		{
-			"name": "Suitor of the Wind",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/22_Suitor of the Wind.png"
-			}
-		},
-		{
-			"name": "The Foul Omen",
-			"rarity": "uncommon",
-			"mana_cost": "{5}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/9_The Foul Omen.png"
-			}
-		},
-		{
-			"name": "Despair's Emissary",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/7_Despair's Emissary.png"
-			}
-		},
-		{
-			"name": "Shining Horizon",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/19_Shining Horizon.png"
-			}
-		},
-		{
-			"name": "Frere et Soeur",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/10_Frere et Soeur.png"
-			}
-		},
-		{
-			"name": "The Ashen Cross",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/2_The Ashen Cross.png"
-			}
-		},
-		{
-			"name": "The Abyssal Pilgrim",
-			"rarity": "uncommon",
-			"mana_cost": "{1}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/23_The Abyssal Pilgrim.png"
-			}
-		},
-		{
-			"name": "Seaskipper",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/18_Seaskipper.png"
-			}
-		},
-		{
-			"name": "The Scarlet Scourge",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/34_The Scarlet Scourge.png"
-			}
-		},
-		{
-			"name": "The Huntress",
-			"rarity": "uncommon",
-			"mana_cost": "{5}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "31",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/31_The Huntress.png"
-			}
-		},
-		{
-			"name": "Jolly Drifter",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/13_Jolly Drifter.png"
-			}
-		},
-		{
-			"name": "Colossal Flagship",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/6_Colossal Flagship.png"
-			}
-		},
-		{
-			"name": "Wavewrecker",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "38",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/38_Wavewrecker.png"
-			}
-		},
-		{
-			"name": "Relentless Destroyer",
-			"rarity": "uncommon",
-			"mana_cost": "{7}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/14_Relentless Destroyer.png"
-			}
-		},
-		{
-			"name": "Agile Catamaran",
-			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/1_Agile Catamaran.png"
-			}
-		},
-		{
-			"name": "Shipping Schooner",
-			"rarity": "common",
-			"mana_cost": "{3}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/20_Shipping Schooner.png"
-			}
-		},
-		{
-			"name": "Skysail Cutter",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/21_Skysail Cutter.png"
-			}
-		},
-		{
-			"name": "Relentless Galleon",
-			"rarity": "common",
-			"mana_cost": "{4}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/15_Relentless Galleon.png"
-			}
-		},
-		{
-			"name": "Royal Patroller",
-			"rarity": "common",
-			"mana_cost": "{4}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/16_Royal Patroller.png"
-			}
-		},
-		{
-			"name": "Sea Devil",
-			"rarity": "common",
-			"mana_cost": "{3}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/17_Sea Devil.png"
-			}
-		},
-		{
-			"name": "Blood Flag Convoy",
-			"rarity": "uncommon",
-			"mana_cost": "{8}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://magictheegg.github.io/sets/GSM-files/img/3_Blood Flag Convoy.png"
+				"en": "https://kxu9969.github.io/sets/GSS-files/img/215_Sacred Peaks.png"
 			}
 		}
-		]
-	[RareSlot(1)]
-		2 Tomas, Beau of the Brine
-		2 Wayward Crew
-		2 Dawn Patrol
-		2 Goldsmith Thadd
-		2 Ataxia
-		2 Arrival of the Sun Fleet
-		2 Battle for Castle Cay
-		2 Riftwind Navigator
-		2 Stormshroud
-		2 Aurelian Drake
-		2 Dreadlich Captain
-		2 Cloudbreacher
-		2 The Price of Prosperity
-		2 Drown in Ken of Shore
-		2 The Silversea Swirls
-		2 Battle for the Mistwinds
-		2 Last Voyage of the Selkie
-		2 Razortooth Roost
-		2 Mayit, the Forgotten One
-		2 Blacksea Hag
-		2 Grog Snoggers
-		2 Abyssal Corruption
-		2 Curse of the Mother
-		2 Ascent of the Wakeborn
-		2 Battle for the Dead Strait
-		2 Curse of Skull Pass
-		2 Groveheart Tender
-		2 Hamlet Shrieker
-		2 Pathfinder Dragon
-		2 The Silversea Company
-		2 Self-Guided Ballistics
-		2 Curse of the Firebrand
-		2 Formation of Merida
-		2 Battle for the Apex
-		2 Current Pacer
-		2 Gareth Redplume IV
-		2 Fathoms Spearhunter
-		2 Pelagic Conduit
-		2 Call of L'Or
-		2 Merveille Pieuvre
-		2 Something Stirs Within
-		2 Growth of Arbre-Mere
-		2 Battle for Prospera Depths
-		2 Coquille, the Rising Isle
-		2 Witness Forces Unknown
-		2 Sentinels of Canica Strait
-		2 Fishing Docks
-		2 Voyager's Passage
-		1 First Admiral of the Bellows
-		1 Betsy Mae Moss, Legionette
-		1 Panya, Minikin Hero
-		1 Rami Nyi, the Tsunami
-		1 The Deep Ones
-		1 Curse of the Dusk Fleet
-		1 Giradrus, the Cataclysm
-		1 The Butcher of Bandura
-		1 Battle for Alas-Wana
-		1 The Wakiwaki
-		1 A World Through the Wake
-		1 Jara, Glade Sovereign
-		1 Deacon Bay Docks
-		1 Jorah, Eternal and Insatiable
-		1 Captain Crain
-	[UncommonSlot(2)]
-		9 Detention Officer
-		9 Courier of the Winds
-		9 Jacktar-for-Hire
-		9 Lady of the Threshers
-		9 A Pirate's Life
-		9 The Blessing of Wealth
-		9 Windwise Drake
-		9 Crain's Creation
-		9 Watchful Ashwing
-		9 Waveshaping
-		9 Phantasmal Marauder
-		9 The Briny Depths Await
-		9 Black Arts Admiral
-		9 Roots of All Evil
-		9 Faceless Faction
-		9 Barter in Blood
-		9 Light Fades to Despair
-		9 Curse of the Blacksea
-		9 Sabre-Happy Swashbuckler
-		9 Glyph Wyvern
-		9 Painted Dragon
-		9 Keelhaul
-		9 Curse of Marked Charts
-		9 Basalt Spray
-		9 Soul of the Grove
-		9 Polyp Architect
-		9 Chart the Lost Lands
-		9 The Roil Stakes Its Claim
-		9 Greensea Amity
-		9 Withstand the Torrent
-		9 Runic Visionary
-		9 Battle for Verity Bay
-		9 Touch of the Omen
-		9 Battle for Ivos Isle
-		9 Curse of the Hunted
-		9 Battle for Blacksea
-		9 Sunscale Drake
-		9 Battle for Highspire
-		9 Familiar's Guile
-		9 Battle for Fort Alderosa
-		9 Spectral Scalawag
-		9 Battle for the Stillshroud
-		9 Colossal Mossjaw
-		9 Battle for Merida Keys
-		9 Glimpse Worlds Within Worlds
-		9 Battle for Tempest Reach
-		9 Shrieking Seakite
-		9 Battle for Charred Atoll
-		9 Forecastle Bosun
-		9 Battle for Port Plenty
-		9 Everfelle Gates
-		9 Thunderball Mortars
-		9 Treasure Cove
-	[FirstMateSlot(1)]
-		9 Captain Holly Dee
-		9 Captain Darwin Smythe
-		9 Commodore Egan Bristol
-		9 Captain Rosie Wright
-		9 The Dieu-de-Fer Twins
-		9 Olavan of the Silversea
-		9 Runix of the Blacksea
-		9 Lanne of the Greensea
-		9 Captain Polly Carver
-		9 Admiral Everett Cross
-	[CommonSlot(8)]
-		30 Seacraft Registrar
-		30 Dockside Sleuth
-		30 Elixir Provisioner
-		30 Bluecoat Adept
-		30 Plucky Crewmate
-		30 Faithful Seasteed
-		30 Parrot Peddler
-		30 Rainbow Tern
-		30 Port Rose Lieutenant
-		30 Chitinous Commander
-		30 Mercantile Negotiations
-		30 Surging Current
-		30 Revoke Privileges
-		30 Sailor's Sendoff
-		30 Ragged Rapscallion
-		30 Recon Drake
-		30 Sigiled Spotter
-		30 Gilded Lapwing
-		30 Harbor Trawler
-		30 Ruin Cove Scavenger
-		30 Secrets Shimmer Like Silver
-		30 Fang Fleet Mandate
-		30 Necrotic Shawl
-		30 Whale of a Tale
-		30 One With the Great Beyond
-		30 Rise of the Blacksea Moon
-		30 Throw Overboard
-		30 Structural Damage
-		30 Relentless Remains
-		30 Crain's Accursed
-		30 Abyssal Corrupter
-		30 Blighted Arbor
-		30 Uprooted Stalker
-		30 Damned Helmsman
-		30 Galleon Ravager
-		30 Writhing Abomination
-		30 Islander's Bounty
-		30 Moment of Craving
-		30 A Soul Breaks Like a Wave
-		30 Churn to Chum
-		30 Curse of Admonishment
-		30 Curse of Fetid Remains
-		30 Mottled Snapwing
-		30 Herald of the Brood
-		30 Wayward Mariner
-		30 Hellkite Whelp
-		30 Shallows Spear-Fisher
-		30 Combustion Girl
-		30 Anchor Hauler
-		30 Crag Monarch
-		30 Poisson Slums Dealings
-		30 Erode
-		30 Open Fire
-		30 Warning from Giradrus
-		30 Curse of the Dragon's Coin
-		30 Curse of the Sea's Bounty
-		30 Invasive Kelp
-		30 Curator of Cryptic Charts
-		30 Lake Cave Lurker
-		30 Frigate Architect
-		30 Greensea Brute
-		30 Copse Creeper
-		30 Ardent Cartographer
-		30 Trench Leviathan
-		30 Breaching Serpent
-		30 Floating Ecocosm
-		30 Vantage Shot
-		30 The Mortal Plays God
-		30 The Unknown Welcomes All
-		30 Ram
-		30 Dwarven Gemsmith
-		30 Putrefied Thrasher
-		30 Crain's Devoted
-		30 Stag of Plenty
-		30 Sanctions Enforcer
-		30 Coastal Raider
-		30 Withering Wanderers
-		30 Silversea Titan
-		30 Precipice Surveyor
-		30 Inspiring Recruitment
-		30 Citadel Tower
-		30 Uncharted Haven
-		30 Convincing Bait
-		30 Prophetic Prism
-		30 Seer's Lantern
-	[LandSlot(1)]
-		10 Idyllic Beachfront
-		10 Contaminated Aquifer
-		10 Geothermal Bog
-		10 Wooded Ridgeline
-		10 Radiant Grove
-		10 Sunlit Marsh
-		10 Haunted Mire
-		10 Tangled Islet
-		10 Molten Tributary
-		10 Sacred Peaks
-	[MasterpieceSlot(1)]
-		1 Bygone Mariner
-		1 Imperial Butterfly
-		1 H.S.S. Dreadnought
-		1 Draco Ligneus
-		1 The Fell Reaper
-		2 The Moon and the Moors
-		2 The Bones and the Brine
-		2 The Spite and the Scorn
-		2 The Storm and the Cedar
-		2 The Heart and the Soul
-		2 The Mirth and the Misery
-		2 The Flesh and the Fate
-		2 The Earth and the Sea
-		2 The Blood and the Claw
-		2 The Sun and the Spirit
-		2 Brine Fleet Bay
-		2 The Great Maw
-		3 Suitor of the Wind
-		3 The Foul Omen
-		3 Despair's Emissary
-		3 Shining Horizon
-		3 Frere et Soeur
-		3 The Ashen Cross
-		3 The Abyssal Pilgrim
-		3 Seaskipper
-		3 The Scarlet Scourge
-		3 The Huntress
-		3 Jolly Drifter
-		3 Colossal Flagship
-		4 Wavewrecker
-		4 Relentless Destroyer
-		4 Agile Catamaran
-		4 Shipping Schooner
-		4 Skysail Cutter
-		3 Relentless Galleon
-		4 Royal Patroller
-		4 Sea Devil
-		4 Blood Flag Convoy
-	[MasterpieceFirstMateSlot(1)]
-		2 The Fell Reaper
-		2 The Moon and the Moors
-		2 The Bones and the Brine
-		2 The Spite and the Scorn
-		2 The Storm and the Cedar
-		2 The Heart and the Soul
-		2 The Mirth and the Misery
-		2 The Flesh and the Fate
-		2 The Earth and the Sea
-		2 The Blood and the Claw
-		2 The Sun and the Spirit
-		6 Suitor of the Wind
-		6 The Foul Omen
-		6 Despair's Emissary
-		6 Shining Horizon
-		6 Frere et Soeur
-		6 The Ashen Cross
-		6 The Abyssal Pilgrim
-		6 Seaskipper
-		6 The Scarlet Scourge
-		6 The Huntress
+	]
+
+[rare(1)]
+	1 First Admiral of the Bellows
+	1 Betsy Mae Moss, Legionette
+	1 Panya, Minikin Hero
+	1 Rami Nyi, the Tsunami
+	1 The Deep Ones
+	1 Curse of the Dusk Fleet
+	1 Giradrus, the Cataclysm
+	1 The Butcher of Bandura
+	1 Battle for Alas-Wana
+	1 The Wakiwaki
+	1 A World Through the Wake
+	1 Jara, Glade Sovereign
+	1 Deacon Bay Docks
+	1 Jorah, Eternal and Insatiable
+	1 Captain Crain
+	2 Tomas, Beau of the Brine
+	2 Wayward Crew
+	2 Dawn Patrol
+	2 Stonesmith Thadd
+	2 Ataxia
+	2 Arrival of the Sun Fleet
+	2 Battle for Castle Cay
+	2 Riftwind Navigator
+	2 Stormshroud
+	2 Aurelian Drake
+	2 Dreadlich Captain
+	2 Cloudbreacher
+	2 The Price of Prosperity
+	2 Drown in Ken of Shore
+	2 The Silversea Swirls
+	2 Battle for the Mistwinds
+	2 Last Voyage of the Selkie
+	2 Razortooth Roost
+	2 Mayit, the Forgotten One
+	2 Blacksea Hag
+	2 Grog Snoggers
+	2 Abyssal Corruption
+	2 Curse of the Mother
+	2 Ascent of the Wakeborn
+	2 Battle for the Dead Strait
+	2 Curse of Skull Pass
+	2 Groveheart Tender
+	2 Hamlet Shrieker
+	2 Pathfinder Dragon
+	2 The Silversea Company
+	2 Self-Guided Ballistics
+	2 Curse of the Firebrand
+	2 Formation of Merida
+	2 Battle for the Apex
+	2 Current Pacer
+	2 Gareth Redplume IV
+	2 Fathoms Spearhunter
+	2 Pelagic Conduit
+	2 Call of L'Or
+	2 Merveille Pieuvre
+	2 Something Stirs Within
+	2 Growth of Arbre-Mere
+	2 Battle for Prospera Depths
+	2 Coquille, the Rising Isle
+	2 Witness Forces Unknown
+	2 Sentinels of Canica Strait
+	2 Fishing Docks
+	2 Voyager's Passage
+[uncommon(3)]
+	4 Detention Officer
+	4 Courier of the Winds
+	4 Jacktar-for-Hire
+	4 Lady of the Threshers
+	4 A Pirate's Life
+	4 Another Man's Treasure
+	4 Windwise Drake
+	4 Crain's Creation
+	4 Watchful Ashwing
+	4 Waveshaping
+	4 Phantasmal Marauder
+	4 The Briny Depths Await
+	4 Black Arts Admiral
+	4 Roots of All Evil
+	4 Faceless Faction
+	4 Barter in Blood
+	4 Light Fades to Despair
+	4 Curse of the Blacksea
+	4 Sabre-Happy Swashbuckler
+	4 Glyph Wyvern
+	4 Painted Dragon
+	4 Keelhaul
+	4 Curse of Marked Charts
+	4 Basalt Spray
+	4 Soul of the Grove
+	4 Polyp Architect
+	4 Chart the Lost Lands
+	4 The Roil Stakes Its Claim
+	4 Greensea Amity
+	4 Withstand the Torrent
+	4 Captain Holly Dee
+	4 Runic Visionary
+	4 Battle for Verity Bay
+	4 Captain Darwin Smythe
+	4 Touch of the Omen
+	4 Battle for Ivos Isle
+	4 Commodore Egan Bristol
+	4 Curse of the Hunted
+	4 Battle for Blacksea
+	4 Captain Rosie Wright
+	4 Sunscale Drake
+	4 Battle for Highspire
+	4 The Dieu-de-Fer Twins
+	4 Familiar's Guile
+	4 Battle for Fort Alderosa
+	4 Olavan of the Silversea
+	4 Spectral Scalawag
+	4 Battle for the Stillshroud
+	4 Runix of the Blacksea
+	4 Colossal Mossjaw
+	4 Battle for Merida Keys
+	4 Lanne of the Greensea
+	4 Glimpse Worlds Within Worlds
+	4 Battle for Tempest Reach
+	4 Captain Polly Carver
+	4 Shrieking Seakite
+	4 Battle for Charred Atoll
+	4 Admiral Everett Cross
+	4 Forecastle Bosun
+	4 Battle for Port Plenty
+	4 Everfelle Gates
+	4 Thunderball Mortars
+	4 Treasure Cove
+[common(7)]
+	8 Seacraft Registrar
+	8 Dockside Sleuth
+	8 Dutiful Innkeeper
+	8 Bluecoat Adept
+	8 Plucky Crewmate
+	8 Faithful Seasteed
+	8 Parrot Peddler
+	8 Rainbow Tern
+	8 Port Rose Lieutenant
+	8 Chitinous Commander
+	8 Mercantile Negotiations
+	8 Surging Current
+	8 Revoke Privileges
+	8 Sailor's Sendoff
+	8 Ragged Rapscallion
+	8 Recon Drake
+	8 Sigiled Spotter
+	8 Gilded Lapwing
+	8 Harbor Trawler
+	8 Ruin Cove Scavenger
+	8 Secrets Shimmer Like Silver
+	8 Fang Fleet Mandate
+	8 Necrotic Shawl
+	8 Whale of a Tale
+	8 One With the Great Beyond
+	8 Rise of the Blacksea Moon
+	8 Throw Overboard
+	8 Structural Damage
+	8 Relentless Remains
+	8 Crain's Accursed
+	8 Blacksea Thaumaturge
+	8 Blighted Arbor
+	8 Uprooted Stalker
+	8 Damned Helmsman
+	8 Galleon Ravager
+	8 Writhing Abomination
+	8 Islander's Bounty
+	8 Moment of Craving
+	8 A Soul Breaks Like a Wave
+	8 Churn to Chum
+	8 Curse of Admonishment
+	8 Curse of Fetid Remains
+	8 Mottled Snapwing
+	8 Herald of the Brood
+	8 Wayward Mariner
+	8 Hellkite Whelp
+	8 Shallows Spear-Fisher
+	8 Combustion Girl
+	8 Anchor Hauler
+	8 Crag Monarch
+	8 Poisson Slums Dealings
+	8 Erode
+	8 Open Fire
+	8 Warning from Giradrus
+	8 Curse of the Dragon's Coin
+	8 Curse of the Sea's Bounty
+	8 Invasive Kelp
+	8 Curator of Cryptic Charts
+	8 Lake Cave Lurker
+	8 Frigate Architect
+	8 Greensea Brute
+	8 Copse Creeper
+	8 Ardent Cartographer
+	8 Trench Leviathan
+	8 Breaching Serpent
+	8 Floating Ecocosm
+	8 Vantage Shot
+	8 The Mortal Plays God
+	8 The Unknown Welcomes All
+	8 Ram
+	8 Dwarven Gemsmith
+	8 Putrefied Thrasher
+	8 Crain's Devoted
+	8 Stag of Plenty
+	8 Sanctions Enforcer
+	8 Coastal Raider
+	8 Withering Wanderers
+	8 Silversea Titan
+	8 Precipice Surveyor
+	8 Inspiring Recruitment
+	8 Citadel Tower
+	8 Uncharted Haven
+	8 Convincing Bait
+	8 Prophetic Prism
+	8 Seer's Lantern
+	8 Idyllic Beachfront
+	8 Contaminated Aquifer
+	8 Geothermal Bog
+	8 Wooded Ridgeline
+	8 Radiant Grove
+	8 Sunlit Marsh
+	8 Haunted Mire
+	8 Tangled Islet
+	8 Molten Tributary
+	8 Sacred Peaks
+[foil(1)]
+	1 First Admiral of the Bellows
+	1 Betsy Mae Moss, Legionette
+	1 Panya, Minikin Hero
+	1 Rami Nyi, the Tsunami
+	1 The Deep Ones
+	1 Curse of the Dusk Fleet
+	1 Giradrus, the Cataclysm
+	1 The Butcher of Bandura
+	1 Battle for Alas-Wana
+	1 The Wakiwaki
+	1 A World Through the Wake
+	1 Jara, Glade Sovereign
+	1 Deacon Bay Docks
+	1 Jorah, Eternal and Insatiable
+	1 Captain Crain
+	2 Tomas, Beau of the Brine
+	2 Wayward Crew
+	2 Dawn Patrol
+	2 Stonesmith Thadd
+	2 Ataxia
+	2 Arrival of the Sun Fleet
+	2 Battle for Castle Cay
+	2 Riftwind Navigator
+	2 Stormshroud
+	2 Aurelian Drake
+	2 Dreadlich Captain
+	2 Cloudbreacher
+	2 The Price of Prosperity
+	2 Drown in Ken of Shore
+	2 The Silversea Swirls
+	2 Battle for the Mistwinds
+	2 Last Voyage of the Selkie
+	2 Razortooth Roost
+	2 Mayit, the Forgotten One
+	2 Blacksea Hag
+	2 Grog Snoggers
+	2 Abyssal Corruption
+	2 Curse of the Mother
+	2 Ascent of the Wakeborn
+	2 Battle for the Dead Strait
+	2 Curse of Skull Pass
+	2 Groveheart Tender
+	2 Hamlet Shrieker
+	2 Pathfinder Dragon
+	2 The Silversea Company
+	2 Self-Guided Ballistics
+	2 Curse of the Firebrand
+	2 Formation of Merida
+	2 Battle for the Apex
+	2 Current Pacer
+	2 Gareth Redplume IV
+	2 Fathoms Spearhunter
+	2 Pelagic Conduit
+	2 Call of L'Or
+	2 Merveille Pieuvre
+	2 Something Stirs Within
+	2 Growth of Arbre-Mere
+	2 Battle for Prospera Depths
+	2 Coquille, the Rising Isle
+	2 Witness Forces Unknown
+	2 Sentinels of Canica Strait
+	2 Fishing Docks
+	2 Voyager's Passage
+	6 Detention Officer
+	6 Courier of the Winds
+	6 Jacktar-for-Hire
+	6 Lady of the Threshers
+	6 A Pirate's Life
+	6 Another Man's Treasure
+	6 Windwise Drake
+	6 Crain's Creation
+	6 Watchful Ashwing
+	6 Waveshaping
+	6 Phantasmal Marauder
+	6 The Briny Depths Await
+	6 Black Arts Admiral
+	6 Roots of All Evil
+	6 Faceless Faction
+	6 Barter in Blood
+	6 Light Fades to Despair
+	6 Curse of the Blacksea
+	6 Sabre-Happy Swashbuckler
+	6 Glyph Wyvern
+	6 Painted Dragon
+	6 Keelhaul
+	6 Curse of Marked Charts
+	6 Basalt Spray
+	6 Soul of the Grove
+	6 Polyp Architect
+	6 Chart the Lost Lands
+	6 The Roil Stakes Its Claim
+	6 Greensea Amity
+	6 Withstand the Torrent
+	6 Captain Holly Dee
+	6 Runic Visionary
+	6 Battle for Verity Bay
+	6 Captain Darwin Smythe
+	6 Touch of the Omen
+	6 Battle for Ivos Isle
+	6 Commodore Egan Bristol
+	6 Curse of the Hunted
+	6 Battle for Blacksea
+	6 Captain Rosie Wright
+	6 Sunscale Drake
+	6 Battle for Highspire
+	6 The Dieu-de-Fer Twins
+	6 Familiar's Guile
+	6 Battle for Fort Alderosa
+	6 Olavan of the Silversea
+	6 Spectral Scalawag
+	6 Battle for the Stillshroud
+	6 Runix of the Blacksea
+	6 Colossal Mossjaw
+	6 Battle for Merida Keys
+	6 Lanne of the Greensea
+	6 Glimpse Worlds Within Worlds
+	6 Battle for Tempest Reach
+	6 Captain Polly Carver
+	6 Shrieking Seakite
+	6 Battle for Charred Atoll
+	6 Admiral Everett Cross
+	6 Forecastle Bosun
+	6 Battle for Port Plenty
+	6 Everfelle Gates
+	6 Thunderball Mortars
+	6 Treasure Cove
+	12 Seacraft Registrar
+	12 Dockside Sleuth
+	12 Dutiful Innkeeper
+	12 Bluecoat Adept
+	12 Plucky Crewmate
+	12 Faithful Seasteed
+	12 Parrot Peddler
+	12 Rainbow Tern
+	12 Port Rose Lieutenant
+	12 Chitinous Commander
+	12 Mercantile Negotiations
+	12 Surging Current
+	12 Revoke Privileges
+	12 Sailor's Sendoff
+	12 Ragged Rapscallion
+	12 Recon Drake
+	12 Sigiled Spotter
+	12 Gilded Lapwing
+	12 Harbor Trawler
+	12 Ruin Cove Scavenger
+	12 Secrets Shimmer Like Silver
+	12 Fang Fleet Mandate
+	12 Necrotic Shawl
+	12 Whale of a Tale
+	12 One With the Great Beyond
+	12 Rise of the Blacksea Moon
+	12 Throw Overboard
+	12 Structural Damage
+	12 Relentless Remains
+	12 Crain's Accursed
+	12 Blacksea Thaumaturge
+	12 Blighted Arbor
+	12 Uprooted Stalker
+	12 Damned Helmsman
+	12 Galleon Ravager
+	12 Writhing Abomination
+	12 Islander's Bounty
+	12 Moment of Craving
+	12 A Soul Breaks Like a Wave
+	12 Churn to Chum
+	12 Curse of Admonishment
+	12 Curse of Fetid Remains
+	12 Mottled Snapwing
+	12 Herald of the Brood
+	12 Wayward Mariner
+	12 Hellkite Whelp
+	12 Shallows Spear-Fisher
+	12 Combustion Girl
+	12 Anchor Hauler
+	12 Crag Monarch
+	12 Poisson Slums Dealings
+	12 Erode
+	12 Open Fire
+	12 Warning from Giradrus
+	12 Curse of the Dragon's Coin
+	12 Curse of the Sea's Bounty
+	12 Invasive Kelp
+	12 Curator of Cryptic Charts
+	12 Lake Cave Lurker
+	12 Frigate Architect
+	12 Greensea Brute
+	12 Copse Creeper
+	12 Ardent Cartographer
+	12 Trench Leviathan
+	12 Breaching Serpent
+	12 Floating Ecocosm
+	12 Vantage Shot
+	12 The Mortal Plays God
+	12 The Unknown Welcomes All
+	12 Ram
+	12 Dwarven Gemsmith
+	12 Putrefied Thrasher
+	12 Crain's Devoted
+	12 Stag of Plenty
+	12 Sanctions Enforcer
+	12 Coastal Raider
+	12 Withering Wanderers
+	12 Silversea Titan
+	12 Precipice Surveyor
+	12 Inspiring Recruitment
+	12 Citadel Tower
+	12 Uncharted Haven
+	12 Convincing Bait
+	12 Prophetic Prism
+	12 Seer's Lantern
+	12 Idyllic Beachfront
+	12 Contaminated Aquifer
+	12 Geothermal Bog
+	12 Wooded Ridgeline
+	12 Radiant Grove
+	12 Sunlit Marsh
+	12 Haunted Mire
+	12 Tangled Islet
+	12 Molten Tributary
+	12 Sacred Peaks
+[wildcard(1)]
+	4 First Admiral of the Bellows
+	4 Betsy Mae Moss, Legionette
+	4 Panya, Minikin Hero
+	4 Rami Nyi, the Tsunami
+	4 The Deep Ones
+	4 Curse of the Dusk Fleet
+	4 Giradrus, the Cataclysm
+	4 The Butcher of Bandura
+	4 Battle for Alas-Wana
+	4 The Wakiwaki
+	4 A World Through the Wake
+	4 Jara, Glade Sovereign
+	4 Deacon Bay Docks
+	4 Jorah, Eternal and Insatiable
+	4 Captain Crain
+	7 Tomas, Beau of the Brine
+	7 Wayward Crew
+	7 Dawn Patrol
+	7 Stonesmith Thadd
+	7 Ataxia
+	7 Arrival of the Sun Fleet
+	7 Battle for Castle Cay
+	7 Riftwind Navigator
+	7 Stormshroud
+	7 Aurelian Drake
+	7 Dreadlich Captain
+	7 Cloudbreacher
+	7 The Price of Prosperity
+	7 Drown in Ken of Shore
+	7 The Silversea Swirls
+	7 Battle for the Mistwinds
+	7 Last Voyage of the Selkie
+	7 Razortooth Roost
+	7 Mayit, the Forgotten One
+	7 Blacksea Hag
+	7 Grog Snoggers
+	7 Abyssal Corruption
+	7 Curse of the Mother
+	7 Ascent of the Wakeborn
+	7 Battle for the Dead Strait
+	7 Curse of Skull Pass
+	7 Groveheart Tender
+	7 Hamlet Shrieker
+	7 Pathfinder Dragon
+	7 The Silversea Company
+	7 Self-Guided Ballistics
+	7 Curse of the Firebrand
+	7 Formation of Merida
+	7 Battle for the Apex
+	7 Current Pacer
+	7 Gareth Redplume IV
+	7 Fathoms Spearhunter
+	7 Pelagic Conduit
+	7 Call of L'Or
+	7 Merveille Pieuvre
+	7 Something Stirs Within
+	7 Growth of Arbre-Mere
+	7 Battle for Prospera Depths
+	7 Coquille, the Rising Isle
+	7 Witness Forces Unknown
+	7 Sentinels of Canica Strait
+	7 Fishing Docks
+	7 Voyager's Passage
+	15 Detention Officer
+	15 Courier of the Winds
+	15 Jacktar-for-Hire
+	15 Lady of the Threshers
+	15 A Pirate's Life
+	15 Another Man's Treasure
+	15 Windwise Drake
+	15 Crain's Creation
+	15 Watchful Ashwing
+	15 Waveshaping
+	15 Phantasmal Marauder
+	15 The Briny Depths Await
+	15 Black Arts Admiral
+	15 Roots of All Evil
+	15 Faceless Faction
+	15 Barter in Blood
+	15 Light Fades to Despair
+	15 Curse of the Blacksea
+	15 Sabre-Happy Swashbuckler
+	15 Glyph Wyvern
+	15 Painted Dragon
+	15 Keelhaul
+	15 Curse of Marked Charts
+	15 Basalt Spray
+	15 Soul of the Grove
+	15 Polyp Architect
+	15 Chart the Lost Lands
+	15 The Roil Stakes Its Claim
+	15 Greensea Amity
+	15 Withstand the Torrent
+	15 Captain Holly Dee
+	15 Runic Visionary
+	15 Battle for Verity Bay
+	15 Captain Darwin Smythe
+	15 Touch of the Omen
+	15 Battle for Ivos Isle
+	15 Commodore Egan Bristol
+	15 Curse of the Hunted
+	15 Battle for Blacksea
+	15 Captain Rosie Wright
+	15 Sunscale Drake
+	15 Battle for Highspire
+	15 The Dieu-de-Fer Twins
+	15 Familiar's Guile
+	15 Battle for Fort Alderosa
+	15 Olavan of the Silversea
+	15 Spectral Scalawag
+	15 Battle for the Stillshroud
+	15 Runix of the Blacksea
+	15 Colossal Mossjaw
+	15 Battle for Merida Keys
+	15 Lanne of the Greensea
+	15 Glimpse Worlds Within Worlds
+	15 Battle for Tempest Reach
+	15 Captain Polly Carver
+	15 Shrieking Seakite
+	15 Battle for Charred Atoll
+	15 Admiral Everett Cross
+	15 Forecastle Bosun
+	15 Battle for Port Plenty
+	15 Everfelle Gates
+	15 Thunderball Mortars
+	15 Treasure Cove
+	6 Seacraft Registrar
+	6 Dockside Sleuth
+	6 Dutiful Innkeeper
+	6 Bluecoat Adept
+	6 Plucky Crewmate
+	6 Faithful Seasteed
+	6 Parrot Peddler
+	6 Rainbow Tern
+	6 Port Rose Lieutenant
+	6 Chitinous Commander
+	6 Mercantile Negotiations
+	6 Surging Current
+	6 Revoke Privileges
+	6 Sailor's Sendoff
+	6 Ragged Rapscallion
+	6 Recon Drake
+	6 Sigiled Spotter
+	6 Gilded Lapwing
+	6 Harbor Trawler
+	6 Ruin Cove Scavenger
+	6 Secrets Shimmer Like Silver
+	6 Fang Fleet Mandate
+	6 Necrotic Shawl
+	6 Whale of a Tale
+	6 One With the Great Beyond
+	6 Rise of the Blacksea Moon
+	6 Throw Overboard
+	6 Structural Damage
+	6 Relentless Remains
+	6 Crain's Accursed
+	6 Blacksea Thaumaturge
+	6 Blighted Arbor
+	6 Uprooted Stalker
+	6 Damned Helmsman
+	6 Galleon Ravager
+	6 Writhing Abomination
+	6 Islander's Bounty
+	6 Moment of Craving
+	6 A Soul Breaks Like a Wave
+	6 Churn to Chum
+	6 Curse of Admonishment
+	6 Curse of Fetid Remains
+	6 Mottled Snapwing
+	6 Herald of the Brood
+	6 Wayward Mariner
+	6 Hellkite Whelp
+	6 Shallows Spear-Fisher
+	6 Combustion Girl
+	6 Anchor Hauler
+	6 Crag Monarch
+	6 Poisson Slums Dealings
+	6 Erode
+	6 Open Fire
+	6 Warning from Giradrus
+	6 Curse of the Dragon's Coin
+	6 Curse of the Sea's Bounty
+	6 Invasive Kelp
+	6 Curator of Cryptic Charts
+	6 Lake Cave Lurker
+	6 Frigate Architect
+	6 Greensea Brute
+	6 Copse Creeper
+	6 Ardent Cartographer
+	6 Trench Leviathan
+	6 Breaching Serpent
+	6 Floating Ecocosm
+	6 Vantage Shot
+	6 The Mortal Plays God
+	6 The Unknown Welcomes All
+	6 Ram
+	6 Dwarven Gemsmith
+	6 Putrefied Thrasher
+	6 Crain's Devoted
+	6 Stag of Plenty
+	6 Sanctions Enforcer
+	6 Coastal Raider
+	6 Withering Wanderers
+	6 Silversea Titan
+	6 Precipice Surveyor
+	6 Inspiring Recruitment
+	6 Citadel Tower
+	6 Uncharted Haven
+	6 Convincing Bait
+	6 Prophetic Prism
+	6 Seer's Lantern
+	6 Idyllic Beachfront
+	6 Contaminated Aquifer
+	6 Geothermal Bog
+	6 Wooded Ridgeline
+	6 Radiant Grove
+	6 Sunlit Marsh
+	6 Haunted Mire
+	6 Tangled Islet
+	6 Molten Tributary
+	6 Sacred Peaks
