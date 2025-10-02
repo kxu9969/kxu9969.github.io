@@ -12,20 +12,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Chen Mubai, Indulgent Scion",
-        "number": 90,
+        "card_name": "Ancient Secret Technique",
+        "number": 84,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Avenging Shrieker",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Dao of Growth",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "DTH"
     },
@@ -42,19 +42,19 @@
         "set": "DTH"
     },
     {
-        "card_name": "Dao of Persistence",
-        "number": 92,
+        "card_name": "Chen Mubai, Indulgent Scion",
+        "number": 91,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Dao of Brutality",
-        "number": 139,
+        "number": 140,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Jian, Arrowleaf Awakened",
+        "card_name": "Jade Beauty",
         "number": 183,
         "shape": "normal",
         "set": "DTH"
@@ -72,20 +72,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Heart Demon of Slaughter",
-        "number": 104,
+        "card_name": "Dao of Persistence",
+        "number": 93,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Sudden Bloodlust",
-        "number": 161,
+        "number": 162,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Trample Underfoot",
-        "number": 204,
+        "card_name": "Jian, Arrowleaf Awakened",
+        "number": 185,
         "shape": "normal",
         "set": "DTH"
     },
@@ -102,20 +102,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Trascendent Rebirth",
-        "number": 121,
+        "card_name": "Heart Demon of Slaughter",
+        "number": 105,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Sun Baitou, Trickster in Heaven",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Wen of the Cycle",
-        "number": 207,
+        "card_name": "Trample Underfoot",
+        "number": 206,
         "shape": "normal",
         "set": "DTH"
     },
@@ -132,20 +132,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Battlefield Reaping",
-        "number": 86,
+        "card_name": "Trascendent Rebirth",
+        "number": 122,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Baitou's Cloudstep",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Riverdream Serpent",
-        "number": 1,
+        "card_name": "Wen of the Cycle",
+        "number": 209,
         "shape": "normal",
         "set": "DTH"
     },
@@ -162,20 +162,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Blade of Bloodlines",
+        "card_name": "Battlefield Reaping",
         "number": 87,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Bo Staff of the Shapeshifter",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Battlepack Howler",
-        "number": 170,
+        "card_name": "Riverdream Serpent",
+        "number": 1,
         "shape": "normal",
         "set": "DTH"
     },
@@ -192,20 +192,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Dominate Soul",
-        "number": 97,
+        "card_name": "Blade of Bloodlines",
+        "number": 88,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Boisterous Hozen",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Retrace the Path",
-        "number": 189,
+        "card_name": "Battlepack Howler",
+        "number": 171,
         "shape": "normal",
         "set": "DTH"
     },
@@ -222,20 +222,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Flameblood Apothecary",
-        "number": 101,
+        "card_name": "Dominate Soul",
+        "number": 98,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Bound Legion Banneret",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Shaman of the Cycle",
-        "number": 192,
+        "card_name": "Retrace the Path",
+        "number": 191,
         "shape": "normal",
         "set": "DTH"
     },
@@ -252,20 +252,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Heart Demon of Avarice",
-        "number": 103,
+        "card_name": "Flameblood Apothecary",
+        "number": 102,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Burn Bright",
-        "number": 134,
+        "number": 135,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Spear of Ancestors",
-        "number": 195,
+        "card_name": "Shaman of the Cycle",
+        "number": 194,
         "shape": "normal",
         "set": "DTH"
     },
@@ -282,20 +282,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Vicious Prodigy",
-        "number": 122,
+        "card_name": "Heart Demon of Avarice",
+        "number": 104,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Heartflame's Renewal",
-        "number": 149,
+        "number": 150,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Sunder the Soulcage",
-        "number": 198,
+        "card_name": "Spear of Ancestors",
+        "number": 197,
         "shape": "normal",
         "set": "DTH"
     },
@@ -312,20 +312,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Wang Lishen, Thrice-Risen",
+        "card_name": "Vicious Prodigy",
         "number": 123,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Khagai, the Northern Blade",
-        "number": 150,
+        "number": 151,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Terrormaw, Hundred-Fanged",
-        "number": 201,
+        "card_name": "Sunder the Soulcage",
+        "number": 200,
         "shape": "normal",
         "set": "DTH"
     },
@@ -342,20 +342,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Want Not",
+        "card_name": "Wang Lishen, Thrice-Risen",
         "number": 124,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Sun Baitou, Stone-Crowned",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Vibrant Shimmermoth",
-        "number": 206,
+        "card_name": "Terrormaw, Hundred-Fanged",
+        "number": 203,
         "shape": "normal",
         "set": "DTH"
     },
@@ -372,20 +372,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Back Alley Hawker",
-        "number": 84,
+        "card_name": "Want Not",
+        "number": 125,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Trickster's Scion",
-        "number": 164,
+        "number": 166,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Arrowleaf Awakener",
-        "number": 167,
+        "card_name": "Vibrant Shimmermoth",
+        "number": 208,
         "shape": "normal",
         "set": "DTH"
     },
@@ -402,20 +402,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Bloodlily Formation",
-        "number": 88,
+        "card_name": "Back Alley Hawker",
+        "number": 85,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Bonk",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Bramblecrown Sovereign",
-        "number": 172,
+        "card_name": "Arrowleaf Awakener",
+        "number": 168,
         "shape": "normal",
         "set": "DTH"
     },
@@ -432,21 +432,21 @@
         "set": "DTH"
     },
     {
-        "card_name": "Bloodline Extraction",
+        "card_name": "Bloodlily Formation",
         "number": 89,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Bring Down the Mountain",
-        "number": 133,
+        "number": 134,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Failure of Logistics",
-        "number": 178,
-        "shape": "double faced split",
+        "card_name": "Bramblecrown Sovereign",
+        "number": 173,
+        "shape": "normal",
         "set": "DTH"
     },
     {
@@ -462,21 +462,21 @@
         "set": "DTH"
     },
     {
-        "card_name": "Death Cultivator",
-        "number": 93,
+        "card_name": "Bloodline Extraction",
+        "number": 90,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Cloudspawn Clone",
-        "number": 137,
+        "number": 138,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Hopeful Rebirth",
-        "number": 181,
-        "shape": "normal",
+        "card_name": "Failure of Logistics",
+        "number": 179,
+        "shape": "double faced split",
         "set": "DTH"
     },
     {
@@ -492,19 +492,19 @@
         "set": "DTH"
     },
     {
-        "card_name": "Deathblossom Charm",
+        "card_name": "Death Cultivator",
         "number": 94,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Emberblossom Charm",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Jadeblossom Charm",
+        "card_name": "Hopeful Rebirth",
         "number": 182,
         "shape": "normal",
         "set": "DTH"
@@ -522,20 +522,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Deathborne Tyrant",
+        "card_name": "Deathblossom Charm",
         "number": 95,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Failure of Discipline",
-        "number": 142,
+        "number": 143,
         "shape": "double faced split",
         "set": "DTH"
     },
     {
-        "card_name": "Molting Larva",
-        "number": 185,
+        "card_name": "Jadeblossom Charm",
+        "number": 184,
         "shape": "normal",
         "set": "DTH"
     },
@@ -552,20 +552,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Failure of Vitality",
-        "number": 99,
-        "shape": "double faced split",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Fang Mountain Howler",
-        "number": 143,
+        "card_name": "Deathborne Tyrant",
+        "number": 96,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Noxious Graverattler",
-        "number": 186,
+        "card_name": "Fang Mountain Howler",
+        "number": 144,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Molting Larva",
+        "number": 187,
         "shape": "normal",
         "set": "DTH"
     },
@@ -582,20 +582,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Fifth Legion, Resurgent",
+        "card_name": "Failure of Vitality",
         "number": 100,
-        "shape": "normal",
+        "shape": "double faced split",
         "set": "DTH"
     },
     {
         "card_name": "Fervent Roosterhound",
-        "number": 144,
+        "number": 145,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Overwhelming Vitality",
-        "number": 187,
+        "card_name": "Noxious Graverattler",
+        "number": 188,
         "shape": "normal",
         "set": "DTH"
     },
@@ -612,20 +612,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Gravebound Imitation",
-        "number": 102,
+        "card_name": "Fifth Legion, Resurgent",
+        "number": 101,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Hateful Ancestor",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Rampaging Warbeast",
-        "number": 188,
+        "card_name": "Overwhelming Vitality",
+        "number": 189,
         "shape": "normal",
         "set": "DTH"
     },
@@ -642,19 +642,19 @@
         "set": "DTH"
     },
     {
-        "card_name": "Phoenix Guard Evangelist",
-        "number": 112,
+        "card_name": "Gravebound Imitation",
+        "number": 103,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Raging Thunderwurm",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Savagery Speaker",
+        "card_name": "Rampaging Warbeast",
         "number": 190,
         "shape": "normal",
         "set": "DTH"
@@ -672,20 +672,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Possessed Cultivator",
-        "number": 114,
+        "card_name": "Phoenix Guard Evangelist",
+        "number": 113,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Rambunctious Pair",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Skybreaker Behemoth",
-        "number": 194,
+        "card_name": "Savagery Speaker",
+        "number": 192,
         "shape": "normal",
         "set": "DTH"
     },
@@ -702,19 +702,19 @@
         "set": "DTH"
     },
     {
-        "card_name": "Qi-Refined Corpse",
+        "card_name": "Possessed Cultivator",
         "number": 115,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Searing Knowledge",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Spiritsong Ancestor",
+        "card_name": "Skybreaker Behemoth",
         "number": 196,
         "shape": "normal",
         "set": "DTH"
@@ -732,20 +732,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Summon to Service",
-        "number": 119,
+        "card_name": "Qi-Refined Corpse",
+        "number": 116,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Stonecap Infant",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Territorial Deathmaw",
-        "number": 200,
+        "card_name": "Spiritsong Ancestor",
+        "number": 198,
         "shape": "normal",
         "set": "DTH"
     },
@@ -762,20 +762,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Tenacious Defense",
+        "card_name": "Summon to Service",
         "number": 120,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Yihuo Escapes the Heavens",
-        "number": 166,
+        "number": 167,
         "shape": "saga",
         "set": "DTH"
     },
     {
-        "card_name": "Timelost Hermit",
-        "number": 203,
+        "card_name": "Territorial Deathmaw",
+        "number": 202,
         "shape": "normal",
         "set": "DTH"
     },
@@ -792,19 +792,19 @@
         "set": "DTH"
     },
     {
-        "card_name": "Battle for the Great Bastion",
-        "number": 85,
-        "shape": "double faced split",
+        "card_name": "Tenacious Defense",
+        "number": 121,
+        "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Battle for Fang Mountain",
-        "number": 127,
+        "number": 128,
         "shape": "double faced split",
         "set": "DTH"
     },
     {
-        "card_name": "Verdant Overgrowth",
+        "card_name": "Timelost Hermit",
         "number": 205,
         "shape": "normal",
         "set": "DTH"
@@ -822,20 +822,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Corpse Dance Technique",
-        "number": 91,
-        "shape": "normal",
+        "card_name": "Battle for the Great Bastion",
+        "number": 86,
+        "shape": "double faced split",
         "set": "DTH"
     },
     {
         "card_name": "Bone Clan Sharpshooter",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Auspicious Si",
-        "number": 168,
+        "card_name": "Verdant Overgrowth",
+        "number": 207,
         "shape": "normal",
         "set": "DTH"
     },
@@ -852,21 +852,21 @@
         "set": "DTH"
     },
     {
-        "card_name": "Demonbone Channeler",
-        "number": 96,
+        "card_name": "Corpse Dance Technique",
+        "number": 92,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Burning Spirit Technique",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Battle for Thousand-Blade Forest",
+        "card_name": "Auspicious Si",
         "number": 169,
-        "shape": "double faced split",
+        "shape": "normal",
         "set": "DTH"
     },
     {
@@ -882,21 +882,21 @@
         "set": "DTH"
     },
     {
-        "card_name": "Emperor's Evangel",
-        "number": 98,
+        "card_name": "Demonbone Channeler",
+        "number": 97,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Child of Fang Mountain",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Boulderhide Wrecker",
-        "number": 171,
-        "shape": "normal",
+        "card_name": "Battle for Thousand-Blade Forest",
+        "number": 170,
+        "shape": "double faced split",
         "set": "DTH"
     },
     {
@@ -912,20 +912,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Hidden Viper Acolyte",
-        "number": 105,
+        "card_name": "Emperor's Evangel",
+        "number": 99,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Dancing Lights Formation",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Channel the Stampede",
-        "number": 173,
+        "card_name": "Boulderhide Wrecker",
+        "number": 172,
         "shape": "normal",
         "set": "DTH"
     },
@@ -942,19 +942,19 @@
         "set": "DTH"
     },
     {
-        "card_name": "Imperial Judgment",
+        "card_name": "Hidden Viper Acolyte",
         "number": 106,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Defy the Heavens",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Chart the Hidden Realm",
+        "card_name": "Channel the Stampede",
         "number": 174,
         "shape": "normal",
         "set": "DTH"
@@ -972,20 +972,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Instinctive Obedience",
+        "card_name": "Imperial Judgment",
         "number": 107,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Fireblood Visions",
-        "number": 145,
+        "number": 146,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Earthhide Hermit",
-        "number": 176,
+        "card_name": "Chart the Hidden Realm",
+        "number": 175,
         "shape": "normal",
         "set": "DTH"
     },
@@ -1002,19 +1002,19 @@
         "set": "DTH"
     },
     {
-        "card_name": "Legion Hematurge",
+        "card_name": "Instinctive Obedience",
         "number": 108,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Firecracker Cavalry",
-        "number": 146,
+        "number": 147,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Earthmane Lion",
+        "card_name": "Earthhide Hermit",
         "number": 177,
         "shape": "normal",
         "set": "DTH"
@@ -1032,20 +1032,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Lingering Legionnaire",
+        "card_name": "Legion Hematurge",
         "number": 109,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Furnace Explosion",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Feiyi Viper",
-        "number": 179,
+        "card_name": "Earthmane Lion",
+        "number": 178,
         "shape": "normal",
         "set": "DTH"
     },
@@ -1062,19 +1062,19 @@
         "set": "DTH"
     },
     {
-        "card_name": "Mire-Breath Fei",
+        "card_name": "Lingering Legionnaire",
         "number": 110,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Mogui Motivator",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Flameclaw Boar",
+        "card_name": "Feiyi Viper",
         "number": 180,
         "shape": "normal",
         "set": "DTH"
@@ -1092,20 +1092,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Ninth Legion Soulpuppet",
+        "card_name": "Mire-Breath Fei",
         "number": 111,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Mogui of the Slaughterfields",
-        "number": 152,
+        "number": 153,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Molded Earth Formation",
-        "number": 184,
+        "card_name": "Flameclaw Boar",
+        "number": 181,
         "shape": "normal",
         "set": "DTH"
     },
@@ -1122,20 +1122,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Phoenix Guard Shieldbearer",
-        "number": 113,
+        "card_name": "Ninth Legion Soulpuppet",
+        "number": 112,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Scorching Phoenixfire",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Scavenging Pangolin",
-        "number": 191,
+        "card_name": "Molded Earth Formation",
+        "number": 186,
         "shape": "normal",
         "set": "DTH"
     },
@@ -1152,19 +1152,19 @@
         "set": "DTH"
     },
     {
-        "card_name": "Soulpuppet Disciple",
-        "number": 116,
+        "card_name": "Phoenix Guard Shieldbearer",
+        "number": 114,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Seeker of the Raucous Path",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Shattered Valley Devastator",
+        "card_name": "Scavenging Pangolin",
         "number": 193,
         "shape": "normal",
         "set": "DTH"
@@ -1182,20 +1182,20 @@
         "set": "DTH"
     },
     {
-        "card_name": "Strike of the Tigerviper",
+        "card_name": "Soulpuppet Disciple",
         "number": 117,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Soulfire Immolator",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Stoneclad Pup",
-        "number": 197,
+        "card_name": "Shattered Valley Devastator",
+        "number": 195,
         "shape": "normal",
         "set": "DTH"
     },
@@ -1212,20 +1212,41 @@
         "set": "DTH"
     },
     {
-        "card_name": "Summary Execution",
+        "card_name": "Strike of the Tigerviper",
         "number": 118,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Stonefist Driver",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Surging Fist Technique",
+        "card_name": "Stoneclad Pup",
         "number": 199,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Summary Execution",
+        "number": 119,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Surging Fist Technique",
+        "number": 201,
         "shape": "normal",
         "set": "DTH"
     },
@@ -1243,7 +1264,7 @@
     },
     {
         "card_name": "Thunderwreath Boar",
-        "number": 202,
+        "number": 204,
         "shape": "normal",
         "set": "DTH"
     },
@@ -1262,198 +1283,216 @@
     "a->gold",
     {
         "card_name": "Onyx, True Sun Evangel",
-        "number": 223,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Thousand-Eyes, Spymaster",
-        "number": 228,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Yihuo, the Fireblood",
-        "number": 230,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Unbound Wyldfire",
-        "number": 229,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Shepherd of Lost Souls",
         "number": 226,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Demon of Lost Knowledge",
-        "number": 215,
+        "card_name": "Thousand-Eyes, Spymaster",
+        "number": 231,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Hidden Viper Patriarch",
-        "number": 217,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Hozen Linebreaker",
-        "number": 218,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Awakened Earthsplitter",
-        "number": 210,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Alabaster Grovetender",
-        "number": 208,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "True Sun Recruiter",
-        "number": 239,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Scholar of Secret Texts",
-        "number": 237,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Bone Clan Skullweaver",
+        "card_name": "Yihuo, the Fireblood",
         "number": 233,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Wildsoul Channeler",
-        "number": 240,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Demon of Rebirth",
-        "number": 234,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Huangdi, Heaven's Corpse",
-        "number": 220,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Taiji and Momo, Rascals",
-        "number": 227,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Prelate of the Fallen",
-        "number": 225,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Bound Tactician",
-        "number": 211,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Breakthrough",
-        "number": 212,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Courtly Scrivener",
-        "number": 213,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Hozen Wrangler",
-        "number": 219,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Fifth Legion Soulbinder",
-        "number": 216,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Madshackle Ape",
-        "number": 221,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Ponderous Blackshell",
-        "number": 224,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Tortuous Bureaucracy",
-        "number": 238,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Maddening Curiosity",
-        "number": 236,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Legion's Mastery",
-        "number": 235,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Blinding Talismans",
+        "card_name": "Unbound Wyldfire",
         "number": 232,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Behold Infinity",
-        "number": 231,
+        "card_name": "Shepherd of Lost Souls",
+        "number": 229,
         "shape": "normal",
         "set": "DTH"
+    },
+    {
+        "card_name": "Demon of Lost Knowledge",
+        "number": 218,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Hidden Viper Patriarch",
+        "number": 220,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Hozen Linebreaker",
+        "number": 221,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Awakened Earthsplitter",
+        "number": 212,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Alabaster Grovetender",
+        "number": 210,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "True Sun Recruiter",
+        "number": 242,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Scholar of Secret Texts",
+        "number": 240,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Bone Clan Skullweaver",
+        "number": 236,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Wildsoul Channeler",
+        "number": 243,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Demon of Rebirth",
+        "number": 237,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Censer of Sealing",
+        "number": 215,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Taiji and Momo, Rascals",
+        "number": 230,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Prelate of the Fallen",
+        "number": 228,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Bound Tactician",
+        "number": 213,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Breakthrough",
+        "number": 214,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Huangdi, Heaven's Corpse",
+        "number": 223,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Hozen Wrangler",
+        "number": 222,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Fifth Legion Soulbinder",
+        "number": 219,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Madshackle Ape",
+        "number": 224,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Ponderous Blackshell",
+        "number": 227,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Courtly Scrivener",
+        "number": 216,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Maddening Curiosity",
+        "number": 239,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Legion's Mastery",
+        "number": 238,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Blinding Talismans",
+        "number": 235,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Behold Infinity",
+        "number": 234,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Tortuous Bureaucracy",
+        "number": 241,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1472,19 +1511,19 @@
     },
     {
         "card_name": "Crouching Tigerviper",
-        "number": 214,
+        "number": 217,
         "shape": "transform double faced",
         "set": "DTH"
     },
     {
         "card_name": "Menghao, First to Ascend",
-        "number": 222,
+        "number": 225,
         "shape": "normal",
         "set": "DTH"
     },
     {
         "card_name": "Avaricious Taotie",
-        "number": 209,
+        "number": 211,
         "shape": "transform double faced",
         "set": "DTH"
     },
@@ -1509,133 +1548,133 @@
     "a->colorless",
     {
         "card_name": "Blade of the Bloodstealer",
-        "number": 242,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "The Vermilion Crown",
-        "number": 260,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "The Great Bastion",
-        "number": 246,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Storage Ring",
-        "number": 255,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Sword of the First Flame",
-        "number": 257,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Wandering Husk",
-        "number": 261,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Whiteflame, Imperial Skyship",
-        "number": 262,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Apocalypse Golem",
-        "number": 241,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Dancing Butcherblades",
-        "number": 244,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Flying Sword",
         "number": 245,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Imperial Atlas",
-        "number": 247,
+        "card_name": "The Vermilion Crown",
+        "number": 263,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Pill Cauldron",
+        "card_name": "The Great Bastion",
         "number": 249,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Qi-Binding Gauntlets",
-        "number": 250,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Skylord of Lost Legacies",
-        "number": 251,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Steelsoul Drudge",
-        "number": 254,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Tome of Ascension",
+        "card_name": "Storage Ring",
         "number": 258,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Caged Devourer",
-        "number": 243,
+        "card_name": "Sword of the First Flame",
+        "number": 260,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Jadeflower Pill",
+        "card_name": "Wandering Husk",
+        "number": 264,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Whiteflame, Imperial Skyship",
+        "number": 265,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Apocalypse Golem",
+        "number": 244,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Dancing Butcherblades",
+        "number": 247,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Flying Sword",
         "number": 248,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Snowblossom Orchid Pill",
+        "card_name": "Imperial Atlas",
+        "number": 250,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Pill Cauldron",
         "number": 252,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Spiritstone Harvester",
+        "card_name": "Qi-Binding Gauntlets",
         "number": 253,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Sunderbreath Pill",
+        "card_name": "Skylord of Lost Legacies",
+        "number": 254,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Steelsoul Drudge",
+        "number": 257,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Tome of Ascension",
+        "number": 261,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Caged Devourer",
+        "number": 246,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Jadeflower Pill",
+        "number": 251,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Snowblossom Orchid Pill",
+        "number": 255,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Spiritstone Harvester",
         "number": 256,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Training Spirit",
+        "card_name": "Sunderbreath Pill",
         "number": 259,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Training Spirit",
+        "number": 262,
         "shape": "normal",
         "set": "DTH"
     },
@@ -1644,6 +1683,37 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mount Tai",
+        "number": 276,
+        "shape": "normal",
+        "set": "DTH"
     },
     {
         "card_name": "e"
@@ -1665,105 +1735,60 @@
     },
     {
         "card_name": "Soulbound Ascent",
-        "number": 275,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Mindshatter Ascent",
-        "number": 272,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Skullcarved Ascent",
-        "number": 274,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Heartscorch Ascent",
-        "number": 269,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Astralweave Ascent",
-        "number": 263,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Soulshroud Battlefield",
-        "number": 276,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Dreammire Battlefield",
-        "number": 267,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Bonegulch Battlefield",
-        "number": 264,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Valleyflame Battlefield",
         "number": 279,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Cloudlost Battlefield",
-        "number": 265,
+        "card_name": "Mindshatter Ascent",
+        "number": 275,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Heavenfell Battlefield",
-        "number": 270,
-        "shape": "normal",
-        "set": "DTH"
-    },
-    {
-        "card_name": "Stormsquall Battlefield",
+        "card_name": "Skullcarved Ascent",
         "number": 278,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Corpserisen Battlefield",
+        "card_name": "Heartscorch Ascent",
+        "number": 272,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Astralweave Ascent",
         "number": 266,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Mountainscar Battlefield",
-        "number": 273,
+        "card_name": "Soulshroud Battlefield",
+        "number": 280,
         "shape": "normal",
         "set": "DTH"
     },
     {
-        "card_name": "Floodstorm Battlefield",
+        "card_name": "Dreammire Battlefield",
+        "number": 270,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Bonegulch Battlefield",
+        "number": 267,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Valleyflame Battlefield",
+        "number": 283,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Cloudlost Battlefield",
         "number": 268,
         "shape": "normal",
         "set": "DTH"
@@ -1784,14 +1809,59 @@
         "card_name": "er"
     },
     {
-        "card_name": "Inner Sanctum",
+        "card_name": "Heavenfell Battlefield",
+        "number": 273,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Stormsquall Battlefield",
+        "number": 282,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Corpserisen Battlefield",
+        "number": 269,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Mountainscar Battlefield",
+        "number": 277,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
+        "card_name": "Floodstorm Battlefield",
         "number": 271,
         "shape": "normal",
         "set": "DTH"
     },
     {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Inner Sanctum",
+        "number": 274,
+        "shape": "normal",
+        "set": "DTH"
+    },
+    {
         "card_name": "Stagnant Caverns",
-        "number": 277,
+        "number": 281,
         "shape": "normal",
         "set": "DTH"
     },

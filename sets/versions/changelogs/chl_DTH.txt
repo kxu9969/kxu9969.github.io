@@ -1,4 +1,455 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Mount Tai added.
+Ancient Secret Technique added.
+Jade Beauty added.
+Censer of Sealing added.
+
+
+Wang Lishen, Thrice-Risen
+
+Phoenix Guard Evangelist
+
+Corpse Dance Technique
+
+Sun Baitou, Stone-Crowned
+
+Fang Mountain Howler
+
+Blade of the Bloodstealer
+
+The Great Bastion
+
+Burning Spirit Technique
+
+Terrormaw, Hundred-Fanged
+
+Stormsquall Battlefield
+
+Phoenix Guard Shieldbearer
+
+Flameclaw Boar
+
+Soulshroud Battlefield
+
+Bonegulch Battlefield
+
+Heavenfell Battlefield
+
+Mountainscar Battlefield
+
+Cloudlost Battlefield
+
+Dreammire Battlefield
+
+Floodstorm Battlefield
+
+Corpserisen Battlefield
+
+Valleyflame Battlefield
+
+Training Spirit
+
+Child of Fang Mountain
+
+Battle for Fang Mountain
+loyalty:  => 4
+
+Battle for Thousand-Blade Forest
+loyalty:  => 4
+
+Flying Sword
+
+Jadeflower Pill
+
+Battle for Alabaster Gate
+loyalty:  => 4
+
+Surging Fist Technique
+
+Battle for the Thunder Peaks
+loyalty:  => 4
+
+Emperor's Evangel
+
+Hozen Linebreaker
+
+Alabaster Grovetender
+
+Awakened Earthsplitter
+
+Battle for the Great Bastion
+loyalty:  => 4
+
+Jadeblossom Charm
+
+Deathblossom Charm
+
+Emberblossom Charm
+
+Thunderwreath Boar
+
+Scorching Phoenixfire
+
+Consign to the Heavens
+cost: {5}{W} => {3}{W}
+rules_text: Exile target creature or enchantment. => Exile target creature or enchantment.
+Flashback {4}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Yihuo, the Fireblood
+
+Boulderhide Wrecker
+
+Savagery Speaker
+
+Yihuo Escapes the Heavens
+
+Mogui Motivator
+
+Bone Clan Skullweaver
+
+Wildsoul Channeler
+
+Demon of Rebirth
+
+Earthhide Hermit
+
+Demonbone Channeler
+
+Bloodlily Formation
+
+Strike of the Tigerviper
+
+Failure of Morale
+loyalty:  => 5
+
+Failure of Discipline
+loyalty:  => 5
+
+Failure of Strategy
+loyalty:  => 5
+
+Failure of Logistics
+loyalty:  => 5
+
+Failure of Vitality
+loyalty:  => 5
+
+Dancing Lights Formation
+
+Molded Earth Formation
+
+Defy the Heavens
+
+Chart the Hidden Realm
+
+Fireblood Visions
+
+Pill Cauldron
+
+Furnace Explosion
+
+Mindshatter Ascent
+
+Skullcarved Ascent
+
+Heartscorch Ascent
+
+Astralweave Ascent
+
+Soulbound Ascent
+
+Flameblood Apothecary
+
+Blade of Bloodlines
+
+Bo Staff of the Shapeshifter
+
+Ninth Legion Soulpuppet
+
+Shattered Valley Devastator
+
+Soulfire Immolator
+
+Sunderbreath Pill
+
+Snowblossom Orchid Pill
+
+Caged Devourer
+
+Spiritstone Harvester
+
+Mogui of the Slaughterfields
+
+Stoneclad Pup
+
+Stonefist Driver
+
+Lingering Legionnaire
+
+True Sun Recruiter
+
+Demon of Lost Knowledge
+
+Patriarch's Intervention
+rules_text: Choose one —
+• Tap target creature and put two stun counters on it.
+• Return target noncreature spell to its owners hand. => Choose one —
+• Tap target creature and put two stun counters on it.
+• Return target noncreature spell to its owner's hand.
+
+Seeker of the Raucous Path
+
+Bone Clan Sharpshooter
+
+Firecracker Cavalry
+
+Feiyi Viper
+
+Scavenging Pangolin
+
+Auspicious Si
+
+Earthmane Lion
+
+Channel the Stampede
+
+Hidden Viper Acolyte
+
+Mire-Breath Fei
+
+Legion Hematurge
+
+Soulpuppet Disciple
+
+Instinctive Obedience
+
+Imperial Judgment
+type: Sorcery => Instant
+
+Summary Execution
+cost: {4}{B} => {3}{B}
+
+Dao of Brutality
+
+Dao of Growth
+
+Dao of Persistence
+
+Searing Knowledge
+
+Mu Yanling, Skydancer
+loyalty: 2 => 3
+
+Dominate Soul
+
+Chen Mubai, Indulgent Scion
+
+Qi-Refined Corpse
+
+Crouching Tigerviper
+
+Fervent Roosterhound
+
+Avaricious Taotie
+
+Bloodline Extraction
+
+Possessed Cultivator
+
+Spiritsong Ancestor
+
+Death Cultivator
+
+Rampaging Warbeast
+
+Bonk
+
+Stonecap Infant
+
+Cloudspawn Clone
+
+Rambunctious Pair
+
+Bring Down the Mountain
+
+Back Alley Hawker
+
+Territorial Deathmaw
+
+Courtly Scrivener
+
+Ponderous Blackshell
+
+Hozen Wrangler
+
+Fifth Legion Soulbinder
+
+Madshackle Ape
+
+Sealed Savant
+rules_text: Defender
+Whenever you cast an instant or sorcery spell, this creature get +2/+0 until end of turn and can attack this turn as though it didn't have defender. => Defender
+Whenever you cast an instant or sorcery spell, this creature gets +2/+0 until end of turn and can attack this turn as though it didn't have defender.
+
+Raging Thunderwurm
+
+Hateful Ancestor
+
+Scholar of Secret Texts
+
+Hidden Viper Patriarch
+
+Fifth Legion, Resurgent
+
+Noxious Graverattler
+
+Arrowleaf Awakener
+
+Timelost Hermit
+
+Tortuous Bureaucracy
+
+Maddening Curiosity
+
+Behold Infinity
+
+Legion's Mastery
+
+Blinding Talismans
+
+Summon to Service
+
+Gravebound Imitation
+type: Sorcery => Instant
+
+Tenacious Defense
+
+Bladespawn Horde
+rules_text: Relentless [i](When this creature dies, if it was attacking and is not a token, exile it from your graveyard and create a tapped token copy of it.)[/i]
+When this dies, if it was attacking, return it from exile to the battlefield tapped. => Relentless [i](When this creature dies, if it was attacking and is not a token, exile it from your graveyard and create a tapped token copy of it.)[/i]
+Whenever this creature is put into exile during combat, return it from exile to the battlefield tapped.
+
+Deathborne Tyrant
+
+Bramblecrown Sovereign
+
+Verdant Overgrowth
+
+Overwhelming Vitality
+
+Molting Larva
+
+Skybreaker Behemoth
+
+Hopeful Rebirth
+
+Vicious Prodigy
+
+Spear of Ancestors
+
+Tome of Ascension
+
+Stagnant Caverns
+
+Battlepack Howler
+
+Trickster's Scion
+
+Want Not
+
+Shaman of the Cycle
+
+Burn Bright
+
+Apocalypse Golem
+
+Skylord of Lost Legacies
+
+Inner Sanctum
+
+Menghao, First to Ascend
+
+Boisterous Hozen
+
+Bound Legion Banneret
+
+Sunder the Soulcage
+
+Steelsoul Drudge
+
+Dancing Butcherblades
+
+Imperial Atlas
+
+Qi-Binding Gauntlets
+
+The Vermilion Crown
+
+Battlefield Reaping
+
+Heart Demon of Avarice
+
+Heart Demon of Slaughter
+
+Trascendent Rebirth
+
+Huangdi, Heaven's Corpse
+
+Heartflame's Renewal
+
+Baitou's Cloudstep
+
+Khagai, the Northern Blade
+
+Jian, Arrowleaf Awakened
+
+Vibrant Shimmermoth
+
+Wen of the Cycle
+
+Trample Underfoot
+
+Avenging Shrieker
+
+Sudden Bloodlust
+
+Sun Baitou, Trickster in Heaven
+
+Seal in Mist
+rules_text: Tap four target nonland permanents and put a stun counter on them. 
+[i]Enlightened[/i] — If you have five or more experience counters, tap four target permanents instead. => Tap four target nonland permanents and put a stun counter on them. 
+[i]Enlightened[/i] — If you have five or more experience counters, tap four target permanents and put a stun counter on them instead.
+
+Retrace the Path
+
+Onyx, True Sun Evangel
+
+Bound Tactician
+
+Shepherd of Lost Souls
+
+Thousand-Eyes, Spymaster
+
+Taiji and Momo, Rascals
+
+Breakthrough
+
+Prelate of the Fallen
+
+Unbound Wyldfire
+
+Storage Ring
+
+Whiteflame, Imperial Skyship
+
+Wandering Husk
+
+Sword of the First Flame
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Jian, Arrowleaf Awakened added.
